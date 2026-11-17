@@ -1,0 +1,31 @@
+{
+  "_note": "Feed URLs are my best knowledge and UNVERIFIED. Check headlines.json 'status' after the first run and fix or remove any feed that fails. Respect each publisher's feed terms (personal, non-commercial use).",
+  "feeds": [
+    {"name": "BBC", "topic": "geo", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "BBC", "topic": "tech", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
+    {"name": "The Guardian", "topic": "geo", "url": "https://www.theguardian.com/world/rss"},
+    {"name": "The Guardian", "topic": "clim", "url": "https://www.theguardian.com/environment/rss"},
+    {"name": "NOS", "topic": "nl", "url": "https://feeds.nos.nl/nosnieuwsalgemeen"},
+    {"name": "NOS", "topic": "fin", "url": "https://feeds.nos.nl/nosnieuwseconomie"},
+    {"name": "NU.nl", "topic": "nl", "url": "https://www.nu.nl/rss/Algemeen"},
+    {"name": "NU.nl", "topic": "tech", "url": "https://www.nu.nl/rss/Tech"},
+    {"name": "NRC", "topic": "nl", "url": "https://www.nrc.nl/rss/"},
+    {"name": "de Volkskrant", "topic": "nl", "url": "https://www.volkskrant.nl/voorpagina/rss.xml"},
+    {"name": "Financial Times", "topic": "fin", "url": "https://www.ft.com/rss/home"},
+    {"name": "The Verge", "topic": "tech", "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "Ars Technica", "topic": "tech", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+    {"name": "Wired", "topic": "tech", "url": "https://www.wired.com/feed/rss"},
+    {"name": "New Scientist", "topic": "sci", "url": "https://www.newscientist.com/feed/home/"},
+    {"name": "The Hindu", "topic": "india", "url": "https://www.thehindu.com/news/national/feeder/default.rss"},
+    {"name": "Indian Express", "topic": "india", "url": "https://indianexpress.com/section/india/feed/"},
+    {"name": "Mint", "topic": "india", "url": "https://www.livemint.com/rss/news"},
+    {"name": "Al Jazeera", "topic": "geo", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+    {"name": "DW", "topic": "geo", "url": "https://rss.dw.com/rdf/rss-en-all"},
+    {"name": "Politico Europe", "topic": "geo", "url": "https://www.politico.eu/feed/"},
+    {"name": "The Economist", "topic": "fin", "url": "https://www.economist.com/finance-and-economics/rss.xml"},
+    {"name": "CNBC", "topic": "fin", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"},
+    {"name": "Carbon Brief", "topic": "clim", "url": "https://www.carbonbrief.org/feed/"},
+    {"name": "Fierce Pharma", "topic": "health", "url": "https://www.fiercepharma.com/rss/xml"},
+    {"name": "Spaceflight Now", "topic": "space", "url": "https://spaceflightnow.com/feed/"}
+  ]
+}
