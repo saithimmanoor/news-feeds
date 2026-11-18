@@ -1,7 +1,10 @@
 name: Collect headlines
 on:
   schedule:
-    - cron: "30 3 * * *"   # 03:30 UTC = 04:30/05:30 Amsterdam, well before the 06:24 refresh
+    - cron: "7 1 * * *"
+    - cron: "7 2 * * *"
+    - cron: "7 3 * * *"
+    - cron: "7 4 * * *"
   workflow_dispatch: {}
 permissions:
   contents: write
