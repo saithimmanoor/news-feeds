@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-19T12:54:09+00:00",
+ "generated_utc": "2026-11-20T08:27:22+00:00",
  "status": [
   {
    "name": "BBC",
@@ -153,7 +153,7 @@
    "topic": "fin",
    "url": "https://www.economist.com/finance-and-economics/rss.xml",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "name": "CNBC",
@@ -167,7 +167,7 @@
    "topic": "clim",
    "url": "https://www.carbonbrief.org/feed/",
    "ok": true,
-   "items": 1
+   "items": 0
   },
   {
    "name": "Fierce Pharma",
@@ -182,86 +182,1031 @@
    "topic": "space",
    "url": "https://spaceflightnow.com/feed/",
    "ok": true,
-   "items": 2
+   "items": 3
   }
  ],
  "items": [
   {
    "source": "The Hindu",
    "topic": "india",
-   "title": "India, Japan discuss economic security, deeper business, people-to-people ties",
-   "url": "https://www.thehindu.com/news/national/india-japan-discuss-economic-security-deeper-business-people-to-people-ties/article71720200.ece",
-   "date": "2026-11-19T12:51:51+00:00"
+   "title": "Vinita Zutshi brings Kashmir’s forgotten folktales to young readers",
+   "url": "https://www.thehindu.com/books/books-authors/vinita-zutshi-brings-kashmirs-forgotten-folktales-to-young-readers/article71718654.ece",
+   "date": "2026-11-20T08:22:55+00:00"
   },
   {
-   "source": "Politico Europe",
+   "source": "DW",
    "topic": "geo",
-   "title": "Nigel Farage is back in Brussels",
-   "url": "https://www.politico.eu/article/nigel-farage-is-back-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T12:50:25+00:00"
+   "title": "India: Pakistani minister visits Delhi for SCO forum amid frozen ties",
+   "url": "https://www.dw.com/en/india-pakistani-minister-visits-delhi-for-sco-forum-amid-frozen-ties/live-79999264?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-20T08:20:00+00:00"
   },
   {
    "source": "CNBC",
    "topic": "fin",
-   "title": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
-   "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
-   "date": "2026-11-19T12:46:28+00:00"
+   "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates",
+   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "date": "2026-11-20T08:18:40+00:00"
   },
   {
    "source": "The Hindu",
    "topic": "india",
-   "title": "Bihar Chief Minister likely to begin statewide journey from November 26",
-   "url": "https://www.thehindu.com/news/national/bihar/bihar-chief-minister-likely-to-begin-statewide-journey-from-november-26/article71720003.ece",
-   "date": "2026-11-19T12:43:58+00:00"
-  },
-  {
-   "source": "CNBC",
-   "topic": "fin",
-   "title": "Box has been on fire this year. UBS says AI will drive even more gains",
-   "url": "https://www.cnbc.com/2026/11/19/ubs-upgrades-box-ai-growth.html",
-   "date": "2026-11-19T12:41:59+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Malaysia to end visa-free entry to Indians from January 1, 2027",
-   "url": "https://www.thehindu.com/news/national/malaysia-to-end-visa-free-entry-to-indians-from-january-1-2027/article71719957.ece",
-   "date": "2026-11-19T12:39:26+00:00"
-  },
-  {
-   "source": "CNBC",
-   "topic": "fin",
-   "title": "Walmart hikes outlook as top execs tell CNBC the retailer is gaining market share ahead of holidays",
-   "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-   "date": "2026-11-19T12:37:47+00:00"
+   "title": "Heritage is not just Lutyens, but also books at the 135-year-old Central Secretariat Library, SC tells government",
+   "url": "https://www.thehindu.com/news/national/heritage-is-not-just-lutyens-but-also-books-at-the-135-year-old-central-secretariat-library-sc-tells-government/article71723633.ece",
+   "date": "2026-11-20T08:18:36+00:00"
   },
   {
    "source": "NOS",
    "topic": "nl",
-   "title": "Verdachten opgepakt die geweld wilden plegen bij klanten van Revolut na datadiefstal",
-   "url": "https://nos.nl/l/2640151",
-   "date": "2026-11-19T12:37:18+00:00"
+   "title": "In steeds minder gemeenten moeten inwoners zelf hun afval scheiden",
+   "url": "https://nos.nl/l/2640246",
+   "date": "2026-11-20T08:17:50+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "‘O.M Operation Mole’: Is Mammootty’s casting in the Dhanush-starrer justified?",
+   "url": "https://www.thehindu.com/entertainment/movies/om-operation-mole-mammootty-dhanush-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723402.ece",
+   "date": "2026-11-20T08:15:38+00:00"
+  },
+  {
+   "source": "The Guardian",
+   "topic": "clim",
+   "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T08:15:05+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "SC asks Centre for response on bringing in law on marriages between those closely related by blood",
+   "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece",
+   "date": "2026-11-20T08:13:56+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "This is not the Congress of Dec. 6: Azam Khan backs alliance, takes ‘biryani’ swipe at Owaisi",
+   "url": "https://www.thehindu.com/news/national/this-is-not-the-congress-of-dec-6-azam-khan-backs-alliance-takes-biryani-swipe-at-owaisi/article71723607.ece",
+   "date": "2026-11-20T08:10:27+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "How ports and cyclones are eating away the beaches of Visakhapatnam",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/time-to-protect-eroding-coastlines/article71720476.ece",
+   "date": "2026-11-20T08:09:08+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Trump-Xi-Putin trilateral: Compromised PM can never sit at this table, says Rahul Gandhi",
+   "url": "https://www.thehindu.com/news/national/congress-leader-rahul-gandhi-on-xi-trump-putin-trilateral-meeting/article71723024.ece",
+   "date": "2026-11-20T08:08:58+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "PM Modi calls for sustained government drive against drug trade, stresses financial prudence",
+   "url": "https://www.thehindu.com/news/national/pm-modi-calls-for-sustained-government-drive-against-drug-trade-stresses-financial-prudence/article71716138.ece",
+   "date": "2026-11-20T08:05:00+00:00"
+  },
+  {
+   "source": "New Scientist",
+   "topic": "sci",
+   "title": "The BepiColombo spacecraft is finally entering orbit around Mercury",
+   "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "date": "2026-11-20T08:00:00+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "US robbery suspects charged over alleged $22M train heist spree",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
+   "date": "2026-11-20T07:56:30+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
+   "url": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
+   "date": "2026-11-20T07:56:03+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "World Air Forces Directory India Rafale: Active fighter jets inventory reduced to 32 from 35; defence ministry questions",
+   "url": "https://www.livemint.com/news/india/world-air-forces-directory-india-rafale-active-fighter-jets-inventory-reduced-to-32-from-35-defence-ministry-questions-11795160870202.html",
+   "date": "2026-11-20T07:56:00+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Tandarts die neonazistisch kooigevecht faciliteerde, zegt daardoor 'overvallen' te zijn",
+   "url": "https://nos.nl/l/2640242",
+   "date": "2026-11-20T07:53:41+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Archeologen graven auto's uit jaren veertig op bij oud-vliegbasis Soesterberg",
+   "url": "https://www.nu.nl/binnenland/6417191/archeologen-graven-autos-uit-jaren-veertig-op-bij-oud-vliegbasis-soesterberg.html",
+   "date": "2026-11-20T07:47:01+00:00"
+  },
+  {
+   "source": "Indian Express",
+   "topic": "india",
+   "title": "Rajasthan Panchayat Election Results 2026: Check ward-wise winners’ list for Zila Parishad and Panchayat Samitis",
+   "url": "https://indianexpress.com/article/india/rajasthan-panchayat-election-results-2026-ward-wise-winners-list-zila-parishad-panchayat-samiti-10970969/",
+   "date": "2026-11-20T07:43:34+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Grootschalige Russische raket- en droneaanval op Oekraïne, minstens drie doden",
+   "url": "https://nos.nl/l/2640241",
+   "date": "2026-11-20T07:38:50+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
+   "url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
+   "date": "2026-11-20T07:37:55+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Amerikaanse Senaat stemt tegen beëindiging oorlog in Iran",
+   "url": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+   "date": "2026-11-20T07:34:00+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "China's Xi praises 'turnaround' in relationship with Australia",
+   "url": "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-20T07:33:00+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "tech",
+   "title": "Should AI be judging our credit worthiness?",
+   "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:32:19+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+   "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+   "date": "2026-11-20T07:29:48+00:00"
+  },
+  {
+   "source": "Indian Express",
+   "topic": "india",
+   "title": "Rs 874 crore boost for Yamuna clean-up: Centre clears 2 sewage treatment plants",
+   "url": "https://indianexpress.com/article/india/delhi-yamuna-pollution-new-stps-874-crore-10971182/",
+   "date": "2026-11-20T07:28:34+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Uttar Pradesh CM Yogi Adityanath's mother Savitri Devi passes away at 91 in Uttarakhand",
+   "url": "https://www.livemint.com/news/india/uttar-pradesh-cm-yogi-adityanaths-mother-savitri-devi-passes-away-at-91-in-uttarakhand-11795159545060.html",
+   "date": "2026-11-20T07:28:31+00:00"
   },
   {
    "source": "CNBC",
    "topic": "fin",
-   "title": "Stocks making the biggest moves premarket: Palo Alto Networks, Take-Two Interactive, Everpure, Walmart & more",
-   "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
-   "date": "2026-11-19T12:35:42+00:00"
+   "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+   "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+   "date": "2026-11-20T07:23:06+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "T.N. BJP chief Nainar Nagenthran slams TVK govt. over alleged halting of ₹1,000 assistance to women",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-bjp-chief-nainar-nagenthran-slams-tvk-govt-over-alleged-halting-of-1000-assistance-to-women/article71719838.ece",
-   "date": "2026-11-19T12:32:07+00:00"
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "The Gambia stood up for the Rohingya, now the world must act",
+   "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+   "date": "2026-11-20T07:20:53+00:00"
   },
   {
-   "source": "The Hindu",
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Oudste Deen ooit zweeg in biografie over naziverleden, boek uit verkoop gehaald",
+   "url": "https://www.nu.nl/opmerkelijk/6417184/oudste-deen-ooit-zweeg-in-biografie-over-naziverleden-boek-uit-verkoop-gehaald.html",
+   "date": "2026-11-20T07:19:41+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "UK and EU to agree youth mobility scheme, BBC understands",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:14:46+00:00"
+  },
+  {
+   "source": "Indian Express",
    "topic": "india",
-   "title": "Telangana BIE releases Intermediate exam 2027 time table",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-bie-releases-inter-exams-2027-time-table/article71719764.ece",
-   "date": "2026-11-19T12:31:20+00:00"
+   "title": "Coastal, southern Odisha receive heavy rainfall as Cyclone Akvan makes landfall; no casualty reported",
+   "url": "https://indianexpress.com/article/india/cyclone-akvan-odisha-gopalpur-landfall-casualties-evacuation-10971128/",
+   "date": "2026-11-20T07:13:06+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "EU and Britain to agree steps towards relations reset",
+   "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+   "date": "2026-11-20T07:12:43+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
+   "url": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
+   "date": "2026-11-20T07:04:27+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+   "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+   "date": "2026-11-20T07:00:00+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Anil Ambani’s wife Tina Ambani moves Delhi HC, seeks clarity on whether an LOC has been issued against her | Here’s why",
+   "url": "https://www.livemint.com/news/india/anil-ambani-s-wife-tina-ambani-moves-delhi-hc-seeks-clarity-on-whether-an-loc-has-been-issued-against-her-here-s-why-11795156336636.html",
+   "date": "2026-11-20T06:48:56+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Florida voert twintigste doodstraf van het jaar uit en breekt daarmee weer record",
+   "url": "https://www.nu.nl/buitenland/6417161/florida-voert-twintigste-doodstraf-van-het-jaar-uit-en-breekt-daarmee-weer-record.html",
+   "date": "2026-11-20T06:43:10+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "Germany news: Lufthansa to cut 1,000 jobs, reports say",
+   "url": "https://www.dw.com/en/germany-news-lufthansa-to-cut-1-000-jobs-reports-say/live-79998529?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-20T06:41:00+00:00"
+  },
+  {
+   "source": "Indian Express",
+   "topic": "india",
+   "title": "After Padmaja, ex-athlete Padmini Thomas quits Kerala BJP, says party neglected her",
+   "url": "https://indianexpress.com/article/india/padmaja-venugopal-arjuna-awardee-padmini-thomas-quits-kerala-bjp-congress-10971053/",
+   "date": "2026-11-20T06:37:51+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Claude-maker Anthropic opent met knal op de beurs, maar sluit een stuk lager",
+   "url": "https://www.nu.nl/economie/6417182/claude-maker-anthropic-opent-met-knal-op-de-beurs-maar-sluit-een-stuk-lager.html",
+   "date": "2026-11-20T06:29:05+00:00"
+  },
+  {
+   "source": "Indian Express",
+   "topic": "india",
+   "title": "Rajasthan Panchayat Election Results 2026: Congress takes early lead; 5 reasons why these polls matter",
+   "url": "https://indianexpress.com/article/india/rajasthan-panchayat-election-results-bhajan-lal-sharma-bjp-congress-10971011/",
+   "date": "2026-11-20T06:21:05+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Daleman maakt weer indruk met baanrecord en goud op 1.000 meter in Japan",
+   "url": "https://www.nu.nl/schaatsen/6417181/daleman-maakt-weer-indruk-met-baanrecord-en-goud-op-1000-meter-in-japan.html",
+   "date": "2026-11-20T06:20:39+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+   "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+   "date": "2026-11-20T06:20:26+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
+   "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+   "date": "2026-11-20T06:15:06+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Bengal rain today: Yellow alert in multiple districts; Cyclone Akvan brings heavy showers, when will weather improve?",
+   "url": "https://www.livemint.com/news/india/bengal-rain-today-yellow-alert-in-multiple-districts-cyclone-akvan-brings-heavy-showers-when-will-weather-improve-11795154631511.html",
+   "date": "2026-11-20T06:10:33+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Duitse douane vindt kilo's drugs in airfryer en koelbox",
+   "url": "https://nos.nl/l/2640231",
+   "date": "2026-11-20T06:10:09+00:00"
+  },
+  {
+   "source": "CNBC",
+   "topic": "fin",
+   "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+   "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+   "date": "2026-11-20T06:00:01+00:00"
+  },
+  {
+   "source": "CNBC",
+   "topic": "fin",
+   "title": "AI is changing software engineering — and some developers miss the struggle",
+   "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+   "date": "2026-11-20T06:00:01+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Wat lezers schrijven over AI in de journalistiek, en wat ze vinden van AI in hun werk",
+   "url": "https://www.nrc.nl/nieuws/2026/11/20/wat-lezers-schrijven-over-ai-in-de-journalistiek-en-wat-ze-vinden-van-ai-in-hun-werk-a4941760",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
+   "url": "https://www.wired.com/story/adorama-promo-code/",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Vimeo Promo Codes: 40% Off This November 2026",
+   "url": "https://www.wired.com/story/vimeo-promo-code/",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Expedia Coupons: 50% Off",
+   "url": "https://www.wired.com/story/expedia-coupon/",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Skechers Coupon Codes 20% Off",
+   "url": "https://www.wired.com/story/skechers-coupon-codes/",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "HBO Max Promo Code: 50% Off | November 2026",
+   "url": "https://www.wired.com/story/max-promo-code/",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Ancestry Coupons│50% Off│November 2026",
+   "url": "https://www.wired.com/story/ancestry-coupon-codes/",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Walgreens Photo Coupons: Up to 70% Off This November 2026",
+   "url": "https://www.wired.com/story/walgreens-photo-coupon/",
+   "date": "2026-11-20T06:00:00+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Wekdienst 20/11: Strafzaak tegen Tata Steel begint • Laatste dag VN-klimaattop",
+   "url": "https://nos.nl/l/2640227",
+   "date": "2026-11-20T05:45:23+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
+   "url": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+   "date": "2026-11-20T05:45:11+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Landen maken zich op voor eindsprint op moeizame klimaattop, EU opvallend terughoudend",
+   "url": "https://nos.nl/l/2640226",
+   "date": "2026-11-20T05:32:38+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Nieuwbouw levert meer huizen op, maar dreigt stil te vallen",
+   "url": "https://www.nu.nl/economie/6417111/nieuwbouw-levert-meer-huizen-op-maar-dreigt-stil-te-vallen.html",
+   "date": "2026-11-20T05:31:22+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "So, Anthropic is finally a public company. What now?",
+   "url": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+   "date": "2026-11-20T05:19:35+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Teachers turn hospital room into classroom to fulfil dying student’s last wish: What happened next is heartbreaking",
+   "url": "https://www.livemint.com/news/world/teachers-turn-hospital-room-into-classroom-to-fulfil-dying-student-s-last-wish-what-happened-next-is-heartbreaking-11795149720162.html",
+   "date": "2026-11-20T05:12:39+00:00"
+  },
+  {
+   "source": "CNBC",
+   "topic": "fin",
+   "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+   "url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+   "date": "2026-11-20T05:09:52+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Canada joins FBI, puts  Goldy Brar on top of its 25 most-wanted fugitives list; announces bounty, here’s how much",
+   "url": "https://www.livemint.com/news/india/canada-joins-fbi-puts-goldy-brar-on-top-of-its-25-most-wanted-fugitives-list-announces-bounty-here-s-how-much-11795150186419.html",
+   "date": "2026-11-20T05:06:54+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Britten willen Brexit-schade herstellen, maar dat heeft een prijs",
+   "url": "https://www.nu.nl/economie/6417016/britten-willen-brexit-schade-herstellen-maar-dat-heeft-een-prijs.html",
+   "date": "2026-11-20T05:05:28+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Verstappen rijdt weinig rondes in natte tweede training Vegas, Russell de snelste",
+   "url": "https://www.nu.nl/formule-1/6417180/verstappen-rijdt-weinig-rondes-in-natte-tweede-training-vegas-russell-de-snelste.html",
+   "date": "2026-11-20T05:03:04+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
+   "url": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
+   "date": "2026-11-20T05:00:26+00:00"
+  },
+  {
+   "source": "The Guardian",
+   "topic": "geo",
+   "title": "Race to be next UN secretary general exposes divisions among world powers",
+   "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+   "date": "2026-11-20T05:00:24+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "Can Nvidia learn from AIG’s mistakes?",
+   "url": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+   "date": "2026-11-20T05:00:17+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "Pensions are eating everything",
+   "url": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+   "date": "2026-11-20T05:00:08+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "China prepares to restart US private equity investments after pullback",
+   "url": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+   "date": "2026-11-20T05:00:07+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Pangram is de nieuwe superheld van het web, maar is deze scherprechter van het geschreven woord wel te vertrouwen?",
+   "url": "https://www.nrc.nl/nieuws/2026/11/20/pangram-is-de-nieuwe-superheld-van-het-web-maar-is-deze-scherprechter-van-het-geschreven-woord-wel-te-vertrouwen-a4940630",
+   "date": "2026-11-20T05:00:00+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Cyclone Akvan: 45 trains cancelled, 28 rescheduled; Air India, IndiGo issue advisories - check affected routes",
+   "url": "https://www.livemint.com/news/india/cyclone-akvan-45-trains-cancelled-28-rescheduled-air-india-indigo-issue-advisories-check-affected-routes-11795148322555.html",
+   "date": "2026-11-20T04:57:37+00:00"
+  },
+  {
+   "source": "Indian Express",
+   "topic": "india",
+   "title": "9 Indian-linked ships under watch near Hormuz as Centre steps up security",
+   "url": "https://indianexpress.com/article/india/sarbananda-sonowal-tightens-maritime-safety-strait-of-hormuz-indian-seafarers-10970896/",
+   "date": "2026-11-20T04:48:14+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Strafzaak tegen Tata Steel om 'opzettelijke luchtvervuiling' van start",
+   "url": "https://nos.nl/l/2640220",
+   "date": "2026-11-20T04:36:50+00:00"
+  },
+  {
+   "source": "Indian Express",
+   "topic": "india",
+   "title": "Gold Rate Today, November 20: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
+   "url": "https://indianexpress.com/article/india/gold-rate-today-november-20-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10970862/",
+   "date": "2026-11-20T04:31:31+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "White House replaces cyber security chief after tech outages",
+   "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-20T04:21:00+00:00"
+  },
+  {
+   "source": "Indian Express",
+   "topic": "india",
+   "title": "India news Live Updates, 20 November 2026: ED summons MP Satnam Sandhu in Punjab multi-crore fraud case",
+   "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-20-november-2026-gangster-naseem-durrani-encounter-delhi-aqi-cyclone-akvan-nikhil-gupta-sentencing-accident-pollution-south-weather-odisha-chennai-10970814/",
+   "date": "2026-11-20T04:13:25+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Onderzoek: XR en Anti-Imperialist Front achter ‘We support Hamas’-spandoek",
+   "url": "https://www.volkskrant.nl/binnenland/onderzoek-xr-en-anti-imperialist-front-achter-we-support-hamas-spandoek~beda670c/",
+   "date": "2026-11-20T04:05:18+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "ICJ finds Myanmar committed genocide against Rohingya: Can the ruling reshape Israel-Gaza and Russia-Ukraine cases",
+   "url": "https://www.livemint.com/news/world/icj-finds-myanmar-committed-genocide-against-rohingya-can-the-ruling-reshape-israel-gaza-and-russia-ukraine-cases-11795146707676.html",
+   "date": "2026-11-20T04:04:48+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "Das Zaudern der Manuela Schwesig",
+   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-zaudern-der-manuela-schwesig/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-20T04:02:00+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Meer Nederlandse wensouders krijgen kind via ‘vliegende draagmoeders’",
+   "url": "https://www.volkskrant.nl/binnenland/meer-nederlandse-wensouders-krijgen-kind-via-vliegende-draagmoeders-die-weinig-te-zeggen-hebben-over-hun-lichaam~bb6f3d44/",
+   "date": "2026-11-20T04:00:29+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Op de klimaattop in Turkije wijst iedereen naar elkaar",
+   "url": "https://www.nrc.nl/nieuws/2026/11/20/op-de-klimaattop-in-turkije-wijst-iedereen-naar-elkaar-a4941903",
+   "date": "2026-11-20T04:00:00+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Opnieuw protesten rond chanoekaconcert in Concertgebouw",
+   "url": "https://www.volkskrant.nl/binnenland/opnieuw-protesten-rond-chanoekaconcert-in-concertgebouw~b198f28e/",
+   "date": "2026-11-20T04:00:00+00:00"
+  },
+  {
+   "source": "CNBC",
+   "topic": "fin",
+   "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+   "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+   "date": "2026-11-20T03:56:17+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Hoogste cyberadviseur Trump vertrekt na reeks technische storingen",
+   "url": "https://nos.nl/l/2640219",
+   "date": "2026-11-20T03:28:52+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Commissie VS: India richtte zich op uitsluiting moslims bij herzien kiezerslijsten",
+   "url": "https://www.volkskrant.nl/buitenland/commissie-vs-india-richtte-zich-op-uitsluiting-moslims-bij-herzien-kiezerslijsten~baf698d7/",
+   "date": "2026-11-20T03:15:48+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "Delay Another Day: How James Bond can save the EU",
+   "url": "https://www.politico.eu/article/delay-another-day-james-bond-help-robert-pattinson-save-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "UK ‘playing catch up’ with Nordic countries on crisis preparations, says minister",
+   "url": "https://www.politico.eu/article/uk-catch-up-nordic-countries-crisis-preparation-dan-jarvis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "5 takeaways from the Spanish election debate",
+   "url": "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "Stockpiling Britain: Does Westminster know something we don’t?",
+   "url": "https://www.politico.eu/podcast/westminster-insider/stockpiling-britain-does-westminster-know-something-we-dont/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "What does Europe want from Andy Burnham’s reconciliation bid?",
+   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/what-does-europe-want-from-andy-burnhams-reconciliation-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "tech",
+   "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T02:54:40+00:00"
+  },
+  {
+   "source": "The Guardian",
+   "topic": "clim",
+   "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+   "date": "2026-11-20T02:30:10+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "New Ukraine talks including Europe to be held 'soon' — Merz",
+   "url": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-20T01:27:00+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat",
+   "url": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-20T01:03:00+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:50:24+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Israël bombardeert opnieuw Bekaa-vallei in oosten van Libanon",
+   "url": "https://www.volkskrant.nl/buitenland/israel-bombardeert-opnieuw-bekaa-vallei-in-oosten-van-libanon~bd96d2f5/",
+   "date": "2026-11-20T00:24:00+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "fin",
+   "title": "Town to City verkozen tot beste Nederlandse game",
+   "url": "https://nos.nl/l/2640217",
+   "date": "2026-11-20T00:18:11+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:13:21+00:00"
+  },
+  {
+   "source": "CNBC",
+   "topic": "fin",
+   "title": "AMD dives on short seller report of alleged China exposure",
+   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "date": "2026-11-20T00:08:34+00:00"
+  },
+  {
+   "source": "CNBC",
+   "topic": "fin",
+   "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+   "date": "2026-11-20T00:04:56+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "tech",
+   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:02:07+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Briljant",
+   "url": "https://www.nrc.nl/puzzels/briljant/2026/11/20/",
+   "date": "2026-11-20T00:00:03+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Aan Zet",
+   "url": "https://www.nrc.nl/puzzels/aan-zet/2026/11/20/",
+   "date": "2026-11-20T00:00:03+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Koprol",
+   "url": "https://www.nrc.nl/puzzels/koprol/2026/11/20/",
+   "date": "2026-11-20T00:00:03+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Cijferblok",
+   "url": "https://www.nrc.nl/puzzels/cijferblok/2026/11/20/",
+   "date": "2026-11-20T00:00:03+00:00"
+  },
+  {
+   "source": "NRC",
+   "topic": "nl",
+   "title": "Woordzoeker",
+   "url": "https://www.nrc.nl/puzzels/woordzoeker/2026/11/20/",
+   "date": "2026-11-20T00:00:03+00:00"
+  },
+  {
+   "source": "Spaceflight Now",
+   "topic": "space",
+   "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
+   "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+   "date": "2026-11-19T23:51:47+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:40:29+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Trump zegt dat Xi en hij streven naar gematigde regels voor AI",
+   "url": "https://www.volkskrant.nl/tech/trump-zegt-dat-xi-en-hij-streven-naar-gematigde-regels-voor-ai~b7417701/",
+   "date": "2026-11-19T23:37:00+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:33:51+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "Price tag for US war in Iran barrels past $48 billion",
+   "url": "https://www.dw.com/en/price-tag-for-us-war-in-iran-barrels-past-48-billion/a-79998255?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-19T23:22:00+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "EU-UK summit — live updates",
+   "url": "https://www.politico.eu/article/eu-uk-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-19T23:05:00+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "California targets Nvidia in China AI chip probe",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:04:30+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "date": "2026-11-19T22:31:41+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+   "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+   "date": "2026-11-19T22:16:37+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "date": "2026-11-19T21:59:35+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "fin",
+   "title": "Succesvolle eerste beursdag voor Anthropic, afwachten of optimisme doorzet",
+   "url": "https://nos.nl/l/2640208",
+   "date": "2026-11-19T21:42:25+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "‘The Year of the Ghost’ is de grote winnaar van de 39ste editie van documentairefestival Idfa",
+   "url": "https://www.volkskrant.nl/films/the-year-of-the-ghost-is-de-grote-winnaar-van-de-39ste-editie-van-documentairefestival-idfa~bc55a09d/",
+   "date": "2026-11-19T21:42:20+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+   "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+   "date": "2026-11-19T21:19:12+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "Meta now sells 3D movies on Quest VR headsets",
+   "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+   "date": "2026-11-19T21:12:06+00:00"
+  },
+  {
+   "source": "Financial Times",
+   "topic": "fin",
+   "title": "Anthropic shares jump 17% after record Wall Street listing",
+   "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+   "date": "2026-11-19T21:02:09+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
+   "url": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-19T20:53:00+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+   "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+   "date": "2026-11-19T20:29:46+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "Meta’s Muse Charm might cost $300",
+   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "date": "2026-11-19T20:22:17+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+   "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+   "date": "2026-11-19T20:19:28+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T20:07:02+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "Google is putting AI chats right on the homepage",
+   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "date": "2026-11-19T20:05:06+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+   "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+   "date": "2026-11-19T19:52:54+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "How to watch the UK-EU summit like a pro",
+   "url": "https://www.politico.eu/article/how-to-watch-the-uk-eu-summit-like-a-pro/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-19T19:42:27+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+   "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+   "date": "2026-11-19T19:40:28+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+   "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+   "date": "2026-11-19T19:35:52+00:00"
+  },
+  {
+   "source": "The Verge",
+   "topic": "tech",
+   "title": "You can now buy a Steam Machine without getting on a waitlist",
+   "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+   "date": "2026-11-19T19:33:22+00:00"
+  },
+  {
+   "source": "New Scientist",
+   "topic": "sci",
+   "title": "Big tech may finally face legal consequences for AI’s actions",
+   "url": "https://www.newscientist.com/article/2599970-big-tech-may-finally-face-legal-consequences-for-their-ais-actions/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "date": "2026-11-19T19:32:00+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+   "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+   "date": "2026-11-19T18:44:39+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "Google will launch Android app verification requirement globally in January 2027",
+   "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+   "date": "2026-11-19T18:00:33+00:00"
+  },
+  {
+   "source": "New Scientist",
+   "topic": "sci",
+   "title": "Huge extinct orca may have eaten other whales",
+   "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "date": "2026-11-19T18:00:00+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:38:22+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "fin",
+   "title": "Recordbeursgang voor AI-bedrijf Anthropic, koers stijgt meteen met een derde",
+   "url": "https://nos.nl/l/2640176",
+   "date": "2026-11-19T16:52:36+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "tech",
+   "title": "Dutch watchdog tells people not to buy AI smart glasses",
+   "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T16:33:17+00:00"
+  },
+  {
+   "source": "New Scientist",
+   "topic": "sci",
+   "title": "Woman entered hibernation-like state during winter for more than 30 years",
+   "url": "https://www.newscientist.com/article/2599918-woman-entered-hibernation-like-state-during-winter-for-more-than-30-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "date": "2026-11-19T16:24:26+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "fin",
+   "title": "Meer tijd voor moederbedrijf Bruna en Readshop om faillissement te voorkomen",
+   "url": "https://nos.nl/l/2640174",
+   "date": "2026-11-19T16:20:26+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "tech",
+   "title": "Anthropic raises $81bn in record-breaking stock market debut",
+   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T15:58:58+00:00"
+  },
+  {
+   "source": "The Guardian",
+   "topic": "clim",
+   "title": "Trump takes 500 actions to weaken cancer protections, new report says",
+   "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+   "date": "2026-11-19T14:15:15+00:00"
+  },
+  {
+   "source": "Ars Technica",
+   "topic": "tech",
+   "title": "Mouse fight club might explain why we like to watch violent things",
+   "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+   "date": "2026-11-19T14:04:38+00:00"
   },
   {
    "source": "The Guardian",
@@ -271,34 +1216,6 @@
    "date": "2026-11-19T12:30:47+00:00"
   },
   {
-   "source": "The Guardian",
-   "topic": "clim",
-   "title": "Cop31 live: Fossil fuels dumped from latest draft deal at climate summit",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
-   "date": "2026-11-19T12:30:37+00:00"
-  },
-  {
-   "source": "CNBC",
-   "topic": "fin",
-   "title": "Anthropic IPO could create thousands of multimillionaire employees",
-   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
-   "date": "2026-11-19T12:30:01+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "Export Promotion Mission: Govt widens airfare, certification and logistics support for exporters",
-   "url": "https://www.livemint.com/news/india/export-promotion-mission-govt-widens-airfare-certification-and-logistics-support-for-exporters-11795090244180.html",
-   "date": "2026-11-19T12:29:56+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Three killed as lorry rams cattle truck on highway in Palnadu district",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-killed-as-lorry-rams-cattle-truck-on-highway-in-palnadu-district/article71719844.ece",
-   "date": "2026-11-19T12:28:34+00:00"
-  },
-  {
    "source": "BBC",
    "topic": "tech",
    "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
@@ -306,116 +1223,11 @@
    "date": "2026-11-19T12:26:39+00:00"
   },
   {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Twee Nederlanders opgepakt in Duitsland vanwege plannen van bomaanslag",
-   "url": "https://www.nu.nl/buitenland/6417106/twee-nederlanders-opgepakt-in-duitsland-vanwege-plannen-van-bomaanslag.html",
-   "date": "2026-11-19T12:23:58+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
-   "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
-   "date": "2026-11-19T12:21:33+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Wrak van eerste Australische marineschip na 128 jaar teruggevonden",
-   "url": "https://www.nu.nl/buitenland/6417103/wrak-van-eerste-australische-marineschip-na-128-jaar-teruggevonden.html",
-   "date": "2026-11-19T12:20:57+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Keralam mulling community-based system for early identification of at-risk children, providing support",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-mulling-community-based-system-for-early-identification-of-at-risk-children-providing-support/article71719589.ece",
-   "date": "2026-11-19T12:20:51+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "ICJ rules Myanmar committed genocide against the Rohingya",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
-   "date": "2026-11-19T12:20:19+00:00"
-  },
-  {
    "source": "NOS",
-   "topic": "nl",
+   "topic": "fin",
    "title": "Energie-agentschap: energiemarkt gaat na crisis niet meer terug naar vroeger",
    "url": "https://nos.nl/l/2640150",
    "date": "2026-11-19T12:19:48+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Declare delta districts drought hit, farmers urge government",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/declare-delta-districts-drought-hit-farmers-urge-government/article71718837.ece",
-   "date": "2026-11-19T12:15:34+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
-   "url": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
-   "date": "2026-11-19T12:11:42+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Dieren in beslaggenomen op boerderij Ens, zaten in kleine kooien en onder ontlasting",
-   "url": "https://nos.nl/l/2640148",
-   "date": "2026-11-19T12:10:25+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Deelfietsplatform lekte fietstochten van gebruikers, ook van Arriva-klanten",
-   "url": "https://nos.nl/l/2640147",
-   "date": "2026-11-19T12:02:55+00:00"
-  },
-  {
-   "source": "CNBC",
-   "topic": "fin",
-   "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-   "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
-   "date": "2026-11-19T12:02:08+00:00"
-  },
-  {
-   "source": "CNBC",
-   "topic": "fin",
-   "title": "Anthropic IPO live updates: Dario and Daniela Amodei to join CNBC in exclusive interview",
-   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-   "date": "2026-11-19T12:01:26+00:00"
-  },
-  {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "Roblox money is pushing a controversial anorexia treatment",
-   "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
-   "date": "2026-11-19T12:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
-   "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
-   "date": "2026-11-19T12:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-   "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-   "date": "2026-11-19T12:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
-   "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
-   "date": "2026-11-19T12:00:00+00:00"
   },
   {
    "source": "New Scientist",
@@ -425,158 +1237,18 @@
    "date": "2026-11-19T12:00:00+00:00"
   },
   {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
-   "url": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
-   "date": "2026-11-19T11:57:34+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "Gaming firm flags rise of illegal offshore operators before SC",
-   "url": "https://www.livemint.com/news/india/gaming-firm-flags-rise-of-illegal-offshore-operators-before-sc-11795082738878.html",
-   "date": "2026-11-19T11:56:33+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "Internationaal Gerechtshof bevindt Myanmar schuldig aan genocide tegen moslimminderheid Rohingya",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/internationaal-gerechtshof-bevindt-myanmar-schuldig-aan-genocide-tegen-moslimminderheid-rohingya-a4941807",
-   "date": "2026-11-19T11:41:01+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "ICJ: Myanmar committed genocide against Rohingya",
-   "url": "https://www.dw.com/en/icj-myanmar-committed-genocide-against-rohingya/a-79987898?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T11:39:00+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
-   "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
-   "date": "2026-11-19T11:38:39+00:00"
-  },
-  {
    "source": "NOS",
-   "topic": "nl",
+   "topic": "fin",
    "title": "Kan AI-bedrijf Anthropic tientallen miljarden aan investeringen terugverdienen?",
    "url": "https://nos.nl/l/2640143",
    "date": "2026-11-19T11:37:43+00:00"
   },
   {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Internationaal Gerechtshof: Myanmar schuldig aan genocide op Rohingya",
-   "url": "https://nos.nl/l/2640142",
-   "date": "2026-11-19T11:35:39+00:00"
-  },
-  {
    "source": "NU.nl",
-   "topic": "nl",
-   "title": "Myanmar als eerste staat ooit schuldig bevonden aan genocide",
-   "url": "https://www.nu.nl/buitenland/6417068/myanmar-als-eerste-staat-ooit-schuldig-bevonden-aan-genocide.html",
-   "date": "2026-11-19T11:35:02+00:00"
-  },
-  {
-   "source": "Wired",
    "topic": "tech",
-   "title": "The Best Early Black Friday Deals on Laptops I’ve Tested Myself (2026)",
-   "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
-   "date": "2026-11-19T11:30:00+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "Watch: EU health chief has ‘ashes’ thrown over him in protest at pesticide rules",
-   "url": "https://www.politico.eu/article/watch-eu-health-chief-has-ashes-thrown-over-him-in-protest-at-pesticide-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T11:29:04+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Putin says US-China-Russia can strengthen global stability",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
-   "date": "2026-11-19T11:22:43+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "Germany news: Pistorius to visit Auschwitz memorial in Poland trip",
-   "url": "https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T11:22:00+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Will laser weapons change warfare?",
-   "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
-   "date": "2026-11-19T11:20:00+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Trump, Xi en Poetin in verklaring na top: 'Een nucleaire oorlog is niet te winnen'",
-   "url": "https://www.nu.nl/buitenland/6417061/trump-xi-en-poetin-in-verklaring-na-top-een-nucleaire-oorlog-is-niet-te-winnen.html",
-   "date": "2026-11-19T11:16:12+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Taiwan meldt opnieuw Russische militaire vliegtuigen nabij eiland",
-   "url": "https://nos.nl/l/2640137",
-   "date": "2026-11-19T11:13:16+00:00"
-  },
-  {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "How to tell a cyberattack from a plain old outage",
-   "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-   "date": "2026-11-19T11:13:01+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Myanmar schuldig aan genocide tegen de Rohingya, oordeelt Internationaal Gerechtshof in historische uitspraak",
-   "url": "https://www.volkskrant.nl/buitenland/myanmar-schuldig-aan-genocide-tegen-de-rohingya-oordeelt-internationaal-gerechtshof-in-historische-uitspraak~b4686446/",
-   "date": "2026-11-19T11:12:00+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "‘Do not take 140 crore Indians for granted’: PM Modi's blunt message to India Inc at FICCI AGM | 10 key takeaways",
-   "url": "https://www.livemint.com/news/india/do-not-take-140-crore-indians-for-granted-pm-modis-blunt-message-to-india-inc-at-ficci-agm-10-key-takeaways-11795084622262.html",
-   "date": "2026-11-19T11:11:59+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Denmark parliament approves security deal with Greenland and US",
-   "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
-   "date": "2026-11-19T11:09:00+00:00"
-  },
-  {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Anthropic is a ‘must own’",
-   "url": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
-   "date": "2026-11-19T11:06:08+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
    "title": "GTA VI doet het onmogelijke en maakt de torenhoge verwachtingen waar",
    "url": "https://www.nu.nl/tech/6417088/gta-vi-doet-het-onmogelijke-en-maakt-de-torenhoge-verwachtingen-waar.html",
    "date": "2026-11-19T11:05:47+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "Meet Sarthak Sidhant: 17-year-old who flagged CBSE OSM irregularities features in TIME100 Next India 2026",
-   "url": "https://www.livemint.com/news/trends/meet-sarthak-sidhant-17-year-old-who-flagged-cbse-osm-irregularities-features-in-time100-next-india-2026-11795084934232.html",
-   "date": "2026-11-19T11:04:57+00:00"
   },
   {
    "source": "The Guardian",
@@ -584,146 +1256,6 @@
    "title": "Race to replant five South African baobabs after export blocked",
    "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
    "date": "2026-11-19T11:03:24+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Railways revises Bulk Ticket booking rules, removes cap on berths for Group Reservations",
-   "url": "https://indianexpress.com/article/india/indian-railways-bulk-ticket-booking-rules-group-reservations-berth-cap-10969825/",
-   "date": "2026-11-19T11:02:40+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "Het openbare én intieme leven van het rijkste meisje van Nederland in de 19de eeuw",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/het-openbare-en-intieme-leven-van-het-rijkste-meisje-van-nederland-in-de-19de-eeuw-a4941009",
-   "date": "2026-11-19T11:01:37+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "Krist Gruijthuijsen wordt de nieuwe directeur Stedelijk Museum Amsterdam",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/krist-gruijthuijsen-wordt-de-nieuwe-directeur-stedelijk-museum-amsterdam-a4941819",
-   "date": "2026-11-19T11:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Best Dyson Early Black Friday Vacuum Deals (2026): Dyson V16 Piston Animal, Dyson V15 Detect",
-   "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
-   "date": "2026-11-19T11:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
-   "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
-   "date": "2026-11-19T11:00:00+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Schorsing van 8 jaar voor speler die steen naar grensrechter gooide in Ecuador",
-   "url": "https://www.nu.nl/voetbal/6417089/schorsing-van-8-jaar-voor-speler-die-steen-naar-grensrechter-gooide-in-ecuador.html",
-   "date": "2026-11-19T10:59:44+00:00"
-  },
-  {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Anthropic to make Wall Street debut after record IPO",
-   "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-   "date": "2026-11-19T10:58:44+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Opnieuw boot met migranten omgeslagen bij Senegal, vrees voor tientallen doden",
-   "url": "https://nos.nl/l/2640136",
-   "date": "2026-11-19T10:58:14+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "Denmark ratifies security deal with US and Greenland",
-   "url": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T10:56:00+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "Anthropic raises $81bn in record-breaking stock market debut",
-   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T10:48:04+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "Raadsverkiezingen in Hilversum en Wijdemeren: hoe beleeft de VVD de uitslagenavond?",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/raadsverkiezingen-in-hilversum-en-wijdemeren-maar-vanwege-de-chaos-in-den-haag-vraagt-niemand-wat-je-hebt-bereikt-a4941805",
-   "date": "2026-11-19T10:47:32+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "From ‘Fragile Five’ to fast-growing economy: PM Modi uses GTA VI comparison to pitch India’s progress",
-   "url": "https://www.livemint.com/news/india/from-fragile-five-to-fast-growing-economy-pm-modi-uses-gta-vi-comparison-to-pitch-india-s-progress-11795084402936.html",
-   "date": "2026-11-19T10:47:00+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Waterschap start rechtszaak tegen Rijk over aanpak Amerikaanse rivierkreeft",
-   "url": "https://www.nu.nl/dieren/6417090/waterschap-start-rechtszaak-tegen-rijk-over-aanpak-amerikaanse-rivierkreeft.html",
-   "date": "2026-11-19T10:33:38+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-   "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T10:32:10+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
-   "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
-   "date": "2026-11-19T10:30:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
-   "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
-   "date": "2026-11-19T10:30:00+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "Bombay HC orders status quo on records sought by B.R. Shetty from Bank of Baroda",
-   "url": "https://www.livemint.com/news/india/bombay-hc-orders-status-quo-on-records-sought-by-b-r-shetty-from-bank-of-baroda-11795074796055.html",
-   "date": "2026-11-19T10:12:20+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "Spanish election race tightens ahead of campaign’s final week, new poll shows",
-   "url": "https://www.politico.eu/article/spanish-election-race-tightens-final-week-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T10:10:24+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "UK Tory chief Badenoch blasts ‘disturbing’ Trump-Putin-Xi trilateral",
-   "url": "https://www.politico.eu/article/uk-tory-chief-badenoch-kemi-badenoch-blasts-disturbing-trump-putin-xi-trilateral/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T10:07:51+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Oproep | Scherpt jouw werkgever het thuiswerkbeleid aan? Dan zoeken we jou",
-   "url": "https://www.nu.nl/nujij/6417079/scherpt-jouw-werkgever-het-thuiswerkbeleid-aan-dan-zoeken-we-jou.html",
-   "date": "2026-11-19T10:07:35+00:00"
   },
   {
    "source": "The Economist",
@@ -754,95 +1286,11 @@
    "date": "2026-11-19T10:00:00+00:00"
   },
   {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Centre notifies new PUC rules. What it means for vehicle owners",
-   "url": "https://indianexpress.com/article/india/puc-certificate-validity-rules-2026-bs-6-10969816/",
-   "date": "2026-11-19T09:55:59+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "‘No inaugurations by officials’: After row, Bihar makes invitation to local MPs, MLAs must at events",
-   "url": "https://indianexpress.com/article/india/bihar-official-event-protocol-mps-mlas-invitations-10969801/",
-   "date": "2026-11-19T09:52:14+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "GTA VI release: Grand Theft Auto boss Strauss Zelnick doesn’t play video games, drink, smoke or own a gun",
-   "url": "https://www.livemint.com/news/trends/gta-vi-release-grand-theft-auto-boss-strauss-zelnick-doesn-t-play-video-games-drink-smoke-or-own-a-gun-11795080577510.html",
-   "date": "2026-11-19T09:43:34+00:00"
-  },
-  {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Air strike hits Saudi sovereign wealth fund headquarters",
-   "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
-   "date": "2026-11-19T09:41:38+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "South Korea's top court overturns jail term for former PM Han",
-   "url": "https://www.dw.com/en/south-korea-s-top-court-overturns-jail-term-for-former-pm-han/a-79987912?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T09:28:00+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "Trump ontmoet Poetin en Xi apart van elkaar, voor het gezamenlijke gesprek van de drie wereldleiders",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/trump-ontmoet-poetin-en-xi-apart-van-elkaar-voor-het-gezamenlijke-gesprek-met-de-drie-wereldleiders-a4941810",
-   "date": "2026-11-19T09:27:55+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "tech",
    "title": "Amerikaanse militairen verlengen diensttijd om een lang weekend GTA te spelen",
    "url": "https://www.nu.nl/tech/6417072/amerikaanse-militairen-verlengen-diensttijd-om-een-lang-weekend-gta-te-spelen.html",
    "date": "2026-11-19T09:25:09+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Zeldzame grondoperatie van Israël ten westen van Gele Lijn in Gaza",
-   "url": "https://www.volkskrant.nl/buitenland/zeldzame-grondoperatie-van-israel-ten-westen-van-gele-lijn-in-gaza~bcc61d50/",
-   "date": "2026-11-19T09:24:53+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "‘De Narsisters’ scheren rakelings langs de absurde realiteit van mijn eigen telefoon",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/de-narsisters-scheren-rakelings-langs-de-absurde-realiteit-van-mijn-eigen-telefoon-a4941774",
-   "date": "2026-11-19T09:24:07+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-   "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T09:21:54+00:00"
-  },
-  {
-   "source": "Mint",
-   "topic": "india",
-   "title": "Capital gains on mutual fund units not taxable in India under Mauritius treaty, rules Delhi HC",
-   "url": "https://www.livemint.com/news/india/delhi-high-court-mauritius-investor-mutual-fund-gains-tax-india-mauritius-treaty-11795072545439.html",
-   "date": "2026-11-19T09:19:17+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "Iran balances ties with China and Russia as Trump ramps up pressure",
-   "url": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T09:07:00+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-   "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T09:02:52+00:00"
   },
   {
    "source": "New Scientist",
@@ -852,46 +1300,11 @@
    "date": "2026-11-19T09:00:00+00:00"
   },
   {
-   "source": "DW",
-   "topic": "geo",
-   "title": "India: Nearly 50,000 evacuated as Cyclone Akvan nears the coast",
-   "url": "https://www.dw.com/en/india-nearly-50-000-evacuated-as-cyclone-akvan-nears-the-coast/live-79987334?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T08:58:00+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Cyclone Akvan Update: 39 trains cancelled, including Vande Bharat; 28 others affected – full list",
-   "url": "https://indianexpress.com/article/india/cyclone-akvan-train-cancellations-affected-services-full-list-10969592/",
-   "date": "2026-11-19T08:57:56+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "An IUML activist was killed after ‘kangaroo court’ trial. 14 years on, CPM men among 13 found guilty",
-   "url": "https://indianexpress.com/article/india/iuml-activist-killed-kangaroo-court-trial-cpm-men-guilty-10969697/",
-   "date": "2026-11-19T08:54:58+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "‘Fish out of water’: Ex-Kerala CM Karunakaran’s daughter Padmaja quits BJP, looks to return to Congress",
-   "url": "https://indianexpress.com/article/india/kerala-padmaja-venugopal-quits-bjp-congress-return-10969693/",
-   "date": "2026-11-19T08:46:23+00:00"
-  },
-  {
    "source": "NOS",
    "topic": "fin",
    "title": "Autoriteit Persoonsgegevens: 'AI-camerabrillen brengen veiligheid in gevaar'",
    "url": "https://nos.nl/l/2640119",
    "date": "2026-11-19T08:45:37+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Cyclone Akvan set to make landfall in Odisha tomorrow; schools shut, curbs at beaches",
-   "url": "https://indianexpress.com/article/india/cyclone-akvan-set-to-make-landfall-odisha-friday-schools-shut-beaches-curbs-10969647/",
-   "date": "2026-11-19T08:27:26+00:00"
   },
   {
    "source": "NOS",
@@ -901,74 +1314,11 @@
    "date": "2026-11-19T08:25:06+00:00"
   },
   {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "Revealed: What Britain thinks on free movement",
-   "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/revealed-what-britain-thinks-on-free-movement/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T08:21:03+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "‘Use resources for people, not self-aggrandisement’: India slams Pakistan at UN",
-   "url": "https://indianexpress.com/article/india/india-pakistan-un-mineral-resources-asim-munir-trump-un-10969615/",
-   "date": "2026-11-19T08:12:53+00:00"
-  },
-  {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Trump hails historic meeting with Putin and Xi",
-   "url": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
-   "date": "2026-11-19T07:43:13+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "Crimean Bridge attacked again, Russia says",
-   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T07:32:06+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Geweld van Israëlische kolonisten neemt toe in Palestijnse stad Jericho",
-   "url": "https://www.volkskrant.nl/buitenland/geweld-van-israelische-kolonisten-neemt-toe-in-palestijnse-stad-jericho~b1b800c0/",
-   "date": "2026-11-19T07:28:57+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "What makes 'Grand Theft Auto VI' more than just a game?",
-   "url": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T07:21:00+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "Why depth beats breadth in Europe’s hunt for an AI edge",
-   "url": "https://www.politico.eu/sponsored-content/why-depth-beats-breadth-in-europes-hunt-for-an-ai-edge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T07:00:00+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "fin",
-   "title": "Opnieuw meer sociale huurwoningen gebouwd",
-   "url": "https://nos.nl/l/2640102",
-   "date": "2026-11-19T06:14:59+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "tech",
    "title": "Veel mensen vragen vrij voor GTA VI: 'Collega's vinden het raar'",
    "url": "https://www.nu.nl/nujij/6416901/veel-mensen-vragen-vrij-voor-gta-vi-collegas-vinden-het-raar.html",
    "date": "2026-11-19T06:13:59+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "Is the AI bubble bursting just as Anthropic goes public?",
-   "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-19T05:58:00+00:00"
   },
   {
    "source": "New Scientist",
@@ -978,67 +1328,11 @@
    "date": "2026-11-19T05:57:00+00:00"
   },
   {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Persorganisatie: Israël demoniseerde Palestijnse journalisten en doodde ze erna",
-   "url": "https://www.volkskrant.nl/buitenland/persorganisatie-israel-demoniseerde-palestijnse-journalisten-en-doodde-ze-erna~bd96d2f5/",
-   "date": "2026-11-19T05:25:00+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "The Coalition of the Willing’s chance to deliver",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-coalition-of-the-willings-chance-to-deliver/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T05:05:00+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "tech",
    "title": "Camerabrillen kunnen dragers en omstanders in gevaar brengen: 'Zorgwekkend'",
    "url": "https://www.nu.nl/tech/6417017/camerabrillen-kunnen-dragers-en-omstanders-in-gevaar-brengen-zorgwekkend.html",
    "date": "2026-11-19T05:01:21+00:00"
-  },
-  {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Retail investors face squeeze in blockbuster IPO",
-   "url": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1",
-   "date": "2026-11-19T05:00:17+00:00"
-  },
-  {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Angry America and its housing market",
-   "url": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
-   "date": "2026-11-19T05:00:17+00:00"
-  },
-  {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Adani: the billionaire at the heart of Modi’s India",
-   "url": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
-   "date": "2026-11-19T05:00:11+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "‘Let’s hunt down some damn shahed-drones!’ Hoe een Nederlands bedrijf meedoet in de oorlog in Oekraïne",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/lets-hunt-down-some-damn-shahed-drones-hoe-een-nederlands-bedrijf-meedoet-in-de-oorlog-in-oekraine-a4935124",
-   "date": "2026-11-19T05:00:00+00:00"
-  },
-  {
-   "source": "NRC",
-   "topic": "nl",
-   "title": "Autoriteit Persoonsgegevens waarschuwt voor AI-brillen: veiligheidsrisico’s voor gebruikers en omstanders",
-   "url": "https://www.nrc.nl/nieuws/2026/11/19/autoriteit-persoonsgegevens-waarschuwt-voor-ai-brillen-veiligheidsrisicos-voor-gebruikers-en-omstanders-a4941766",
-   "date": "2026-11-19T05:00:00+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-   "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T04:42:52+00:00"
   },
   {
    "source": "NU.nl",
@@ -1048,32 +1342,11 @@
    "date": "2026-11-19T04:31:23+00:00"
   },
   {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "Die Koalition der Wartenden: Europa blickt nach Shenzhen",
-   "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-koalition-der-wartenden-europa-blickt-nach-shenzhen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-19T04:30:00+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Grote vraag naar thuisbatterijen nu voordelige salderingsregeling eindigt",
-   "url": "https://www.volkskrant.nl/binnenland/grote-vraag-naar-thuisbatterijen-nu-voordelige-salderingsregeling-eindigt~bb4b2b51/",
-   "date": "2026-11-19T04:00:51+00:00"
-  },
-  {
    "source": "The Guardian",
    "topic": "geo",
    "title": "One in four women globally unable to refuse sex within marriage, says UN",
    "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
    "date": "2026-11-19T04:00:16+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Elon Musk: Zelensky liegt over beperkingen bij Starshield",
-   "url": "https://www.volkskrant.nl/buitenland/elon-musk-zelensky-liegt-over-beperkingen-bij-starshield~b11373d3a/",
-   "date": "2026-11-19T03:15:00+00:00"
   },
   {
    "source": "BBC",
@@ -1083,81 +1356,11 @@
    "date": "2026-11-19T02:59:06+00:00"
   },
   {
-   "source": "Financial Times",
-   "topic": "fin",
-   "title": "Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
-   "url": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
-   "date": "2026-11-19T02:19:32+00:00"
-  },
-  {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
-   "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-   "date": "2026-11-19T01:39:45+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Het duurste schilderij van Van Gogh: ‘Bloeiende kastanjebomen’ brengt 190,4 miljoen dollar op bij veiling",
-   "url": "https://www.volkskrant.nl/cultuur-media/het-duurste-schilderij-van-van-gogh-bloeiende-kastanjebomen-brengt-190-4-miljoen-dollar-op-bij-veiling~be250f9a/",
-   "date": "2026-11-19T01:32:43+00:00"
-  },
-  {
-   "source": "New Scientist",
-   "topic": "sci",
-   "title": "Turmeric supplements offer little benefit for knee osteoarthritis",
-   "url": "https://www.newscientist.com/article/2599636-turmeric-supplements-offer-little-benefit-for-knee-osteoarthritis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-   "date": "2026-11-19T01:00:00+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-   "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T00:49:19+00:00"
-  },
-  {
-   "source": "CNBC",
-   "topic": "fin",
-   "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-   "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-   "date": "2026-11-19T00:08:14+00:00"
-  },
-  {
    "source": "BBC",
    "topic": "tech",
    "title": "The seven Anthropic founders who are about to become multi-billionaires",
    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-18T23:42:07+00:00"
-  },
-  {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-   "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-   "date": "2026-11-18T23:25:04+00:00"
-  },
-  {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "The nation’s largest school districts consider ditching Google Search",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-   "date": "2026-11-18T23:18:35+00:00"
-  },
-  {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-   "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-   "date": "2026-11-18T23:10:39+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Aantal hiv-diagnoses stijgt voor vierde jaar op rij, zorgen over toename bij jongeren",
-   "url": "https://www.volkskrant.nl/binnenland/aantal-hiv-diagnoses-stijgt-voor-vierde-jaar-op-rij-zorgen-over-toename-bij-jongeren~b8ef0a93/",
-   "date": "2026-11-18T23:01:41+00:00"
   },
   {
    "source": "The Guardian",
@@ -1167,53 +1370,11 @@
    "date": "2026-11-18T22:31:41+00:00"
   },
   {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-   "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-   "date": "2026-11-18T22:08:57+00:00"
-  },
-  {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-   "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-   "date": "2026-11-18T22:05:48+00:00"
-  },
-  {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-   "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-   "date": "2026-11-18T21:29:24+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-   "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T21:28:08+00:00"
-  },
-  {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "Absolute Batman can save DC Studios",
-   "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-   "date": "2026-11-18T21:20:00+00:00"
-  },
-  {
    "source": "Spaceflight Now",
    "topic": "space",
    "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
    "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
    "date": "2026-11-18T21:11:37+00:00"
-  },
-  {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-   "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-   "date": "2026-11-18T20:41:12+00:00"
   },
   {
    "source": "The Guardian",
@@ -1223,67 +1384,11 @@
    "date": "2026-11-18T20:24:19+00:00"
   },
   {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "Trump’s latest land grab is an AI hub in the Philippines",
-   "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-   "date": "2026-11-18T19:40:36+00:00"
-  },
-  {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "Best Buy sells Blu-rays online and in-store again",
-   "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-   "date": "2026-11-18T19:31:17+00:00"
-  },
-  {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "Nvidia’s rise, visualized",
-   "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-   "date": "2026-11-18T19:30:00+00:00"
-  },
-  {
-   "source": "The Verge",
-   "topic": "tech",
-   "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
-   "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
-   "date": "2026-11-18T19:30:00+00:00"
-  },
-  {
    "source": "The Economist",
    "topic": "fin",
    "title": "Meet the European Central Bank’s new squad",
    "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
    "date": "2026-11-18T19:24:30+00:00"
-  },
-  {
-   "source": "Ars Technica",
-   "topic": "tech",
-   "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-   "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-   "date": "2026-11-18T19:19:33+00:00"
-  },
-  {
-   "source": "New Scientist",
-   "topic": "sci",
-   "title": "The real reasons we keep seeing big tech outages – it isn’t just hackers",
-   "url": "https://www.newscientist.com/article/2599523-the-real-reasons-we-keep-seeing-big-tech-outages-its-not-just-hackers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-   "date": "2026-11-18T18:00:00+00:00"
-  },
-  {
-   "source": "New Scientist",
-   "topic": "sci",
-   "title": "New Scientist is 70 years old – join us in celebrating",
-   "url": "https://www.newscientist.com/article/2599308-new-scientist-is-70-years-old-join-us-in-celebrating/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-   "date": "2026-11-18T18:00:00+00:00"
-  },
-  {
-   "source": "New Scientist",
-   "topic": "sci",
-   "title": "Our favourite reader questions of the past three decades",
-   "url": "https://www.newscientist.com/article/2599267-our-favourite-reader-questions-of-the-past-three-decades/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-   "date": "2026-11-18T18:00:00+00:00"
   },
   {
    "source": "NU.nl",
@@ -1300,20 +1405,6 @@
    "date": "2026-11-18T17:46:40+00:00"
   },
   {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T17:34:25+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-   "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T17:00:40+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "tech",
    "title": "Langverwachte game GTA VI 'laat zien hoe gestoord Amerika is'",
@@ -1326,13 +1417,6 @@
    "title": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
    "url": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
    "date": "2026-11-18T14:00:04+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-   "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T13:16:53+00:00"
   },
   {
    "source": "The Guardian",
@@ -1349,53 +1433,11 @@
    "date": "2026-11-18T11:15:18+00:00"
   },
   {
-   "source": "NOS",
-   "topic": "fin",
-   "title": "Voorzichtige beursgang AI-maker Anthropic om de stemming rond AI positief te houden",
-   "url": "https://nos.nl/l/2639995",
-   "date": "2026-11-18T10:20:24+00:00"
-  },
-  {
    "source": "The Guardian",
    "topic": "geo",
    "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
    "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
    "date": "2026-11-18T09:58:28+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-   "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T09:28:35+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "fin",
-   "title": "Aantal schuldeisers cryptobedrijf Knaken loopt op naar 1100, geld nog altijd zoek",
-   "url": "https://nos.nl/l/2639987",
-   "date": "2026-11-18T09:13:51+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "Security flaw found in Java, world's third-largest programming language",
-   "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T08:47:06+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "fin",
-   "title": "Einde salderen leidt tot run op thuisbatterijen, 'hoofd koel houden'",
-   "url": "https://nos.nl/l/2639959",
-   "date": "2026-11-18T06:12:30+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "fin",
-   "title": "Datacenters verbruikten vorig jaar 5 procent van alle stroom",
-   "url": "https://nos.nl/l/2639955",
-   "date": "2026-11-18T05:30:30+00:00"
   },
   {
    "source": "The Guardian",
@@ -1419,25 +1461,11 @@
    "date": "2026-11-18T02:33:21+00:00"
   },
   {
-   "source": "NOS",
-   "topic": "fin",
-   "title": "Nvidia verwacht omzetstijging ondanks ophef over topman Huang",
-   "url": "https://nos.nl/l/2639949",
-   "date": "2026-11-17T23:14:49+00:00"
-  },
-  {
    "source": "The Guardian",
    "topic": "geo",
    "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
    "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
    "date": "2026-11-17T21:49:29+00:00"
-  },
-  {
-   "source": "The Guardian",
-   "topic": "clim",
-   "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
-   "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
-   "date": "2026-11-17T19:12:15+00:00"
   },
   {
    "source": "The Economist",
@@ -1447,46 +1475,11 @@
    "date": "2026-11-17T18:38:26+00:00"
   },
   {
-   "source": "NU.nl",
-   "topic": "tech",
-   "title": "Ouders staan deze week voor de keuze: mag mijn kind wel of niet GTA VI spelen?",
-   "url": "https://www.nu.nl/tech/6416741/ouders-staan-deze-week-voor-de-keuze-mag-mijn-kind-wel-of-niet-gta-vi-spelen.html",
-   "date": "2026-11-17T18:34:39+00:00"
-  },
-  {
    "source": "The Economist",
    "topic": "fin",
    "title": "Does Donald Trump care about the economy?",
    "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
    "date": "2026-11-17T17:54:03+00:00"
-  },
-  {
-   "source": "The Guardian",
-   "topic": "clim",
-   "title": "These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
-   "date": "2026-11-17T13:00:48+00:00"
-  },
-  {
-   "source": "Carbon Brief",
-   "topic": "clim",
-   "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
-   "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
-   "date": "2026-11-17T05:00:00+00:00"
-  },
-  {
-   "source": "The Guardian",
-   "topic": "geo",
-   "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-   "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-   "date": "2026-11-17T01:10:59+00:00"
-  },
-  {
-   "source": "The Economist",
-   "topic": "fin",
-   "title": "America does not produce world-beating statistics. Who does?",
-   "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
-   "date": "2026-11-16T18:28:18+00:00"
   }
  ]
 }
