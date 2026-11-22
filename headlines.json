@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-22T09:39:10+00:00",
+ "generated_utc": "2026-11-22T11:08:09+00:00",
  "status": [
   {
    "name": "BBC",
@@ -55,7 +55,7 @@
    "topic": "tech",
    "url": "https://www.nu.nl/rss/Tech",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "name": "NRC",
@@ -154,7 +154,7 @@
    "topic": "fin",
    "url": "https://www.economist.com/finance-and-economics/rss.xml",
    "ok": true,
-   "items": 3
+   "items": 0
   },
   {
    "name": "CNBC",
@@ -187,25 +187,200 @@
  ],
  "items": [
   {
-   "source": "NOS",
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+   "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+   "date": "2026-11-22T11:02:00+00:00"
+  },
+  {
+   "source": "NU.nl",
    "topic": "nl",
-   "title": "Klimaattop bereikt kookpunt: EU-landen willen niet instemmen terwijl de tijd wegtikt",
-   "url": "https://nos.nl/l/2640550",
-   "date": "2026-11-22T09:37:58+00:00"
+   "title": "Live | Eredivisie | Twente opent Eredivisie-zondag tegen hekkensluiter Willem II",
+   "url": "https://www.nu.nl/voetbal/6417408/eredivisie-twente-opent-eredivisie-zondag-tegen-hekkensluiter-willem-ii.html",
+   "date": "2026-11-22T11:01:21+00:00"
   },
   {
    "source": "The Guardian",
    "topic": "clim",
-   "title": "Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever",
+   "title": "Cop31 live: final session under way at divided climate summit as chance of deal hangs in the balance",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T09:24:35+00:00"
+   "date": "2026-11-22T11:00:23+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Banks Have Had It Up to Here With Your AI Agent",
+   "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+   "date": "2026-11-22T11:00:00+00:00"
   },
   {
    "source": "The Hindu",
    "topic": "india",
-   "title": "i-ALERT system leads to savings, lesser emissions for RTC",
-   "url": "https://www.thehindu.com/news/national/telangana/i-alert-system-leads-to-savings-lesser-emissions-for-rtc/article71730955.ece",
-   "date": "2026-11-22T09:24:23+00:00"
+   "title": "E.M. Radha, daughter of E.M.S. Namboodiripad, passes away",
+   "url": "https://www.thehindu.com/news/national/kerala/em-radha-daughter-of-ems-namboodiripad-passes-away/article71730912.ece",
+   "date": "2026-11-22T10:56:14+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Simon Commission and SIR exercise are similar: Revanth Reddy",
+   "url": "https://www.thehindu.com/news/national/telangana/simon-commission-and-sir-exercise-are-similar-revanth-reddy/article71731117.ece",
+   "date": "2026-11-22T10:46:06+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "‘People bought less gold, prices fell’: Modi recalls year-old appeal",
+   "url": "https://www.thehindu.com/news/national/people-bought-less-gold-prices-fell-modi-recalls-year-old-appeal/article71731156.ece",
+   "date": "2026-11-22T10:41:51+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "New York's pied-à-terre tax targets luxury homes; Taylor Swift faces a $133,000 bill. Details inside",
+   "url": "https://www.livemint.com/news/us-news/new-yorks-pied-terre-tax-targets-luxury-homes-taylor-swift-faces-a-133-000-bill-details-inside-11795342492732.html",
+   "date": "2026-11-22T10:40:59+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Visakhapatnam Steel Plant teams win three gold awards at international quality convention in Dhaka",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-steel-plant-teams-win-three-gold-awards-at-international-quality-convention-in-dhaka/article71730755.ece",
+   "date": "2026-11-22T10:40:29+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "'Nederlandse taferelen' in België, begrotingscrisis nadert climax",
+   "url": "https://nos.nl/l/2640564",
+   "date": "2026-11-22T10:33:19+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Jana Sena activist dies during clash over panchayat nominations in Pulivendula",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-activist-dies-during-clash-over-panchayat-nominations-in-pulivendula/article71730855.ece",
+   "date": "2026-11-22T10:30:56+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "Brussels, Charleroi airports to cancel most flights Monday amid Belgian strike",
+   "url": "https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-22T10:30:54+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "14 vermisten na hevige Russische droneaanval op appartementencomplex",
+   "url": "https://www.volkskrant.nl/buitenland/14-vermisten-na-hevige-russische-droneaanval-op-appartementencomplex~b11373d3a/",
+   "date": "2026-11-22T10:30:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+   "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+   "date": "2026-11-22T10:30:00+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Diljit Dosanjh questions ban on his songs, calls decision ‘double standards’",
+   "url": "https://www.thehindu.com/news/national/diljit-dosanjh-questions-ban-on-his-songs-calls-decision-double-standards/article71731138.ece",
+   "date": "2026-11-22T10:28:06+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "SC seeks report from administrator on plea to restrain office-bearers, members of BCA from functioning",
+   "url": "https://www.thehindu.com/news/national/sc-seeks-report-from-administrator-on-plea-to-restrain-office-bearers-members-of-bca-from-functioning/article71731118.ece",
+   "date": "2026-11-22T10:27:50+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "CCPA slaps ₹10 lakh fine on firm for selling ‘anti-drone gun’ on IndiaMART",
+   "url": "https://www.thehindu.com/news/national/ccpa-slaps-10-lakh-fine-on-firm-for-selling-anti-drone-gun-on-indiamart/article71731049.ece",
+   "date": "2026-11-22T10:24:59+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Influencer terug in Nederland na opsluiting in ICE-detentiecentrum",
+   "url": "https://www.volkskrant.nl/binnenland/influencer-terug-in-nederland-na-opsluiting-in-ice-detentiecentrum~bc19d9cb/",
+   "date": "2026-11-22T10:23:28+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Zuid-Koreaanse onderwijsminister stapt op na ophef over telefoons bij examen",
+   "url": "https://www.nu.nl/buitenland/6417404/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-over-telefoons-bij-examen.html",
+   "date": "2026-11-22T10:21:44+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Uitheemse lettersierschildpad plant zich succesvol voort in Nederland",
+   "url": "https://www.nu.nl/dieren/6417403/uitheemse-lettersierschildpad-plant-zich-succesvol-voort-in-nederland.html",
+   "date": "2026-11-22T10:06:54+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+   "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+   "date": "2026-11-22T10:00:00+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Nieuwe invasieve exoot in Nederland: waterschildpad plant zich voort in natuur",
+   "url": "https://nos.nl/l/2640556",
+   "date": "2026-11-22T09:58:17+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "14 missing after Russian strike as Zelenskyy presses US over Patriot missiles",
+   "url": "https://www.politico.eu/article/14-missing-after-russian-strike-zelenskyy-presses-us-patriot-missiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-22T09:49:20+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Zuid-Koreaanse onderwijsminister stapt op: ‘We waren onvoldoende voorbereid op AI-fraude bij toelatingsexamens universiteiten’",
+   "url": "https://www.volkskrant.nl/buitenland/zuid-koreaanse-onderwijsminister-stapt-op-we-waren-onvoldoende-voorbereid-op-ai-fraude-bij-toelatingsexamens-universiteiten~b1415e05/",
+   "date": "2026-11-22T09:49:00+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+   "url": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+   "date": "2026-11-22T09:45:48+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Klimaattop bereikt kookpunt: EU-landen willen niet instemmen, terwijl de tijd wegtikt",
+   "url": "https://nos.nl/l/2640550",
+   "date": "2026-11-22T09:37:58+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Restored wells bring life back to Hebron’s occupied Old City",
+   "url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+   "date": "2026-11-22T09:33:16+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Photos: People rally across France over living costs, public services",
+   "url": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+   "date": "2026-11-22T09:27:48+00:00"
   },
   {
    "source": "Mint",
@@ -229,20 +404,6 @@
    "date": "2026-11-22T09:20:45+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "U.P. Police mistakenly give guard of honour to Owaisi in Saharanpur, probe ordered",
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-police-mistakenly-give-guard-of-honour-to-owaisi-in-saharanpur-probe-ordered/article71728350.ece",
-   "date": "2026-11-22T09:16:17+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "NCW seeks report on rape and murder of woman inside stationary train in Nagercoil",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/ncw-seeks-report-on-rape-and-murder-of-woman-inside-stationary-train-in-nagercoil/article71731002.ece",
-   "date": "2026-11-22T09:14:22+00:00"
-  },
-  {
    "source": "Mint",
    "topic": "india",
    "title": "Russia Hits Ukrainian Energy Facilities, Straining Power Supply",
@@ -250,46 +411,11 @@
    "date": "2026-11-22T09:11:57+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Nitin Nabin announces his team; Smriti Irani, Ram Madhav make a comeback, Amit Malviya out",
-   "url": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
-   "date": "2026-11-22T09:11:56+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "The new BJP team’s piecemeal reset",
-   "url": "https://www.thehindu.com/news/national/the-new-bjp-teams-piecemeal-reset/article71475657.ece",
-   "date": "2026-11-22T09:10:45+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee",
-   "url": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
-   "date": "2026-11-22T09:10:15+00:00"
-  },
-  {
    "source": "Al Jazeera",
    "topic": "geo",
    "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
    "date": "2026-11-22T09:06:27+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Palaniswami criticises TVK-led government over SC dismissal of TN’s Cauvery pleas",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-criticises-tvk-led-government-over-sc-dismissal-of-tns-cauvery-pleas/article71730986.ece",
-   "date": "2026-11-22T09:01:39+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "University of Hyderabad students continue protest, demand termination of faculty member over alleged casteist remarks",
-   "url": "https://www.thehindu.com/news/national/telangana/university-of-hyderabad-students-continue-protest-demand-termination-of-faculty-member-over-alleged-casteist-remarks/article71730706.ece",
-   "date": "2026-11-22T09:00:22+00:00"
   },
   {
    "source": "DW",
@@ -383,13 +509,6 @@
    "date": "2026-11-22T07:46:35+00:00"
   },
   {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Wembanyama scores 50 points, bags 19 rebounds in Spurs’ 14th win of season",
-   "url": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
-   "date": "2026-11-22T07:44:37+00:00"
-  },
-  {
    "source": "Politico Europe",
    "topic": "geo",
    "title": "Europeans dare to believe Trump could deliver security for Ukraine",
@@ -418,13 +537,6 @@
    "date": "2026-11-22T07:31:42+00:00"
   },
   {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "De broeikas | Misschien hebben klimaattoppen juist totale mislukking nodig",
-   "url": "https://www.nu.nl/de-broeikas/6417318/misschien-hebben-klimaattoppen-juist-totale-mislukking-nodig.html",
-   "date": "2026-11-22T07:28:02+00:00"
-  },
-  {
    "source": "DW",
    "topic": "geo",
    "title": "US: ICE arrests 2 at Seattle airport in 'chilling' scenes — governor",
@@ -432,25 +544,11 @@
    "date": "2026-11-22T07:27:00+00:00"
   },
   {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Doden en tientallen vermisten door brand in snoepfabriek in Indonesië",
-   "url": "https://www.nu.nl/buitenland/6417392/doden-en-tientallen-vermisten-door-brand-in-snoepfabriek-in-indonesie.html",
-   "date": "2026-11-22T07:22:37+00:00"
-  },
-  {
    "source": "DW",
    "topic": "geo",
    "title": "India: Nepal PM Balendra Shah heads to Delhi for first bilateral visit",
    "url": "https://www.dw.com/en/india-nepal-pm-balendra-shah-heads-to-delhi-for-first-bilateral-visit/live-80008104?maca=en-rss-en-all-1573-rdf",
    "date": "2026-11-22T07:20:00+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Miley Cyrus getrouwd met muzikant Maxx Morando",
-   "url": "https://www.nu.nl/entertainment/6417391/miley-cyrus-getrouwd-met-muzikant-maxx-morando.html",
-   "date": "2026-11-22T07:17:03+00:00"
   },
   {
    "source": "BBC",
@@ -472,27 +570,6 @@
    "title": "Thanks to PM Modi, gold price drops  ₹65 lakh per kg: CTI writes open letter, ‘Your advice helped protect savings’",
    "url": "https://www.livemint.com/news/india/thanks-to-pm-modi-gold-price-drops-65-lakh-per-kg-cti-written-open-letter-your-advice-helped-protect-savings-11795330409616.html",
    "date": "2026-11-22T07:08:12+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Why Somalia’s president turned against his former ally, the UAE",
-   "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
-   "date": "2026-11-22T06:59:59+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "The European revolt may be coming to the UK",
-   "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
-   "date": "2026-11-22T06:59:59+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T06:54:06+00:00"
   },
   {
    "source": "NOS",
@@ -558,13 +635,6 @@
    "date": "2026-11-22T06:05:00+00:00"
   },
   {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "AfD won ruim in Saksen-Anhalt, maar route naar macht nog steeds niet duidelijk",
-   "url": "https://nos.nl/l/2640519",
-   "date": "2026-11-22T06:00:01+00:00"
-  },
-  {
    "source": "CNBC",
    "topic": "fin",
    "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
@@ -579,18 +649,18 @@
    "date": "2026-11-22T05:50:00+00:00"
   },
   {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Doden en tientallen vermisten na brand in snoepfabriek Indonesië",
-   "url": "https://nos.nl/l/2640514",
-   "date": "2026-11-22T05:19:58+00:00"
-  },
-  {
    "source": "Mint",
    "topic": "india",
    "title": "Bravo! Who is Payal Nag? Anand Mahindra gifted her Scorpio-N - Electrocuted, lost all 4 limbs, but won medals for India",
    "url": "https://www.livemint.com/news/trends/electrocuted-at-8-lost-all-four-limbs-now-wins-medals-for-india-meet-payal-nag-whom-anand-mahindra-gifted-scorpion-11795322099764.html",
    "date": "2026-11-22T05:17:20+00:00"
+  },
+  {
+   "source": "The Guardian",
+   "topic": "geo",
+   "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+   "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+   "date": "2026-11-22T05:04:39+00:00"
   },
   {
    "source": "Financial Times",
@@ -609,15 +679,15 @@
   {
    "source": "Financial Times",
    "topic": "fin",
-   "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
-   "url": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
-   "date": "2026-11-22T05:00:06+00:00"
+   "title": "Cheap Chinese ecommerce parcels flood the UK",
+   "url": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+   "date": "2026-11-22T05:00:14+00:00"
   },
   {
    "source": "Financial Times",
    "topic": "fin",
-   "title": "The ‘austere’ conservative poised to lead Spain with the far right",
-   "url": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+   "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
+   "url": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
    "date": "2026-11-22T05:00:06+00:00"
   },
   {
@@ -642,13 +712,6 @@
    "date": "2026-11-22T05:00:06+00:00"
   },
   {
-   "source": "Mint",
-   "topic": "india",
-   "title": "Trump threatens ‘tremendous tax’ on US firms building data centres abroad: Could India lose out?",
-   "url": "https://www.livemint.com/news/world/trump-threatens-tremendous-tax-on-us-firms-building-data-centres-abroad-could-india-lose-out-11795320644379.html",
-   "date": "2026-11-22T04:57:15+00:00"
-  },
-  {
    "source": "de Volkskrant",
    "topic": "nl",
    "title": "Italiaanse juwelenontwerper en zakenman Paolo Bulgari (89) overleden",
@@ -661,13 +724,6 @@
    "title": "Een beroemde regisseur, een steracteur, Nederlands subsidiegeld maar geen film | Luisterverhaal op zondag",
    "url": "https://www.nrc.nl/nieuws/2026/11/22/een-beroemde-regisseur-een-steracteur-nederlands-subsidiegeld-maar-geen-film-luisterverhaal-op-zondag-a4942004",
    "date": "2026-11-22T04:00:00+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Ook in bijgewerkte slotverklaring geen afbouw fossiele brandstoffen",
-   "url": "https://www.volkskrant.nl/wetenschap/liveblog-klimaattop-antalya~b4a19353/",
-   "date": "2026-11-22T03:17:00+00:00"
   },
   {
    "source": "BBC",
@@ -768,13 +824,6 @@
    "date": "2026-11-21T21:59:31+00:00"
   },
   {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Russische media: Topvrouw grootste Russische webshop Wildberries treedt af na plaatsing op sanctielijst EU",
-   "url": "https://www.volkskrant.nl/buitenland/russische-media-topvrouw-grootste-russische-webshop-wildberries-treedt-af-na-plaatsing-op-sanctielijst-eu~b11373d3a/",
-   "date": "2026-11-21T20:45:00+00:00"
-  },
-  {
    "source": "The Verge",
    "topic": "tech",
    "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -822,13 +871,6 @@
    "title": "Alice Huang’s links to the chip underworld",
    "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
    "date": "2026-11-21T17:00:10+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Techbeurs Nasdaq beleeft slechtste week sinds 2020: vijf verklaringen voor de malaise",
-   "url": "https://www.volkskrant.nl/economie/techbeurs-nasdaq-beleeft-slechtste-week-sinds-2020-vijf-verklaringen-voor-de-malaise~beefd4fa/",
-   "date": "2026-11-21T17:00:00+00:00"
   },
   {
    "source": "CNBC",
@@ -985,25 +1027,11 @@
    "date": "2026-11-21T11:30:00+00:00"
   },
   {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-   "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
-   "date": "2026-11-21T11:30:00+00:00"
-  },
-  {
    "source": "The Guardian",
    "topic": "geo",
    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
    "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
    "date": "2026-11-21T11:00:57+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Best Laptops for Travel (2026): Which to Take on the Road",
-   "url": "https://www.wired.com/story/best-laptops-for-travel/",
-   "date": "2026-11-21T11:00:00+00:00"
   },
   {
    "source": "Politico Europe",
@@ -1013,25 +1041,18 @@
    "date": "2026-11-21T10:44:05+00:00"
   },
   {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "17 Best Gifts for Women in the Enshittocene (2026)",
-   "url": "https://www.wired.com/story/best-gifts-for-women/",
-   "date": "2026-11-21T10:02:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "The Manosphere Isn’t Ready for Brothercore",
-   "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
-   "date": "2026-11-21T10:00:00+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "tech",
    "title": "Schermtijd | Plegen jullie maar bankovervallen in GTA VI, ik ga vogelspotten",
    "url": "https://www.nu.nl/tech/6417120/plegen-jullie-maar-bankovervallen-in-gta-vi-ik-ga-vogelspotten.html",
    "date": "2026-11-21T08:34:33+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Man convicted of starting Palisades fire in Los Angeles",
+   "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T04:34:00+00:00"
   },
   {
    "source": "NOS",
@@ -1151,20 +1172,6 @@
    "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
    "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
    "date": "2026-11-20T18:26:08+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "UK will take its time setting out Brexit options, says minister",
-   "url": "https://www.politico.eu/article/uk-brexit-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-20T17:50:49+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "The biggest winners and losers of the EU-UK summit deals",
-   "url": "https://www.politico.eu/article/the-winners-and-losers-of-the-eu-uk-summit-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-20T17:24:57+00:00"
   },
   {
    "source": "New Scientist",
@@ -1326,41 +1333,6 @@
    "title": "‘It’s a biohazard’: Native communities in US south-west try to recover after flooding intensified by El Niño",
    "url": "https://www.theguardian.com/us-news/2026/nov/19/el-nino-flooding-native-communities",
    "date": "2026-11-19T12:30:47+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "tech",
-   "title": "GTA VI doet het onmogelijke en maakt de torenhoge verwachtingen waar",
-   "url": "https://www.nu.nl/tech/6417088/gta-vi-doet-het-onmogelijke-en-maakt-de-torenhoge-verwachtingen-waar.html",
-   "date": "2026-11-19T11:05:47+00:00"
-  },
-  {
-   "source": "The Guardian",
-   "topic": "geo",
-   "title": "Race to replant five South African baobabs after export blocked",
-   "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-   "date": "2026-11-19T11:03:24+00:00"
-  },
-  {
-   "source": "The Economist",
-   "topic": "fin",
-   "title": "Bond yields are rising everywhere—except China",
-   "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
-   "date": "2026-11-19T10:04:37+00:00"
-  },
-  {
-   "source": "The Economist",
-   "topic": "fin",
-   "title": "Europe tightens sanctions on Russia. America loosens them",
-   "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
-   "date": "2026-11-19T10:03:23+00:00"
-  },
-  {
-   "source": "The Economist",
-   "topic": "fin",
-   "title": "AI is swallowing maths. Is economics next?",
-   "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
-   "date": "2026-11-19T10:01:25+00:00"
   }
  ]
 }
