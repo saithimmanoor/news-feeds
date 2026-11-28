@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-28T10:10:01+00:00",
+ "generated_utc": "2026-11-28T11:37:28+00:00",
  "status": [
   {
    "name": "BBC",
@@ -13,7 +13,7 @@
    "topic": "tech",
    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "name": "The Guardian",
@@ -55,7 +55,7 @@
    "topic": "tech",
    "url": "https://www.nu.nl/rss/Tech",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "name": "NRC",
@@ -187,25 +187,270 @@
  ],
  "items": [
   {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Schietpartij op N11 bij Zoeterwoude, auto met mogelijke kogelgaten langs de weg",
+   "url": "https://www.nu.nl/binnenland/6418097/schietpartij-op-n11-bij-zoeterwoude-auto-met-mogelijke-kogelgaten-langs-de-weg.html",
+   "date": "2026-11-28T11:36:21+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "tech",
+   "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+   "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T11:35:34+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories",
+   "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-28-2026/",
+   "date": "2026-11-28T11:33:21+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Tien doden door Russische aanvallen op Oekraïne",
+   "url": "https://www.volkskrant.nl/buitenland/tien-doden-door-russische-aanvallen-op-oekraine~b34eb585/",
+   "date": "2026-11-28T11:33:00+00:00"
+  },
+  {
    "source": "The Hindu",
    "topic": "india",
-   "title": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; SC-appointed receivers climb hill",
+   "title": "Thirupparankundram row LIVE: 'Deepathoon' lamp lighting expected soon; CRPF urges devotees to stay away from hilltop area",
    "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
-   "date": "2026-11-28T10:05:06+00:00"
+   "date": "2026-11-28T11:32:05+00:00"
   },
   {
    "source": "The Hindu",
    "topic": "india",
-   "title": "Tamil Nadu library scam: Every reader of a spurious book becomes an invisible victim of an unpardonable crime, says Special Court",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-library-scam-every-reader-of-a-spurious-book-becomes-an-invisible-victim-of-an-unpardonable-crime-says-special-court/article71753901.ece",
-   "date": "2026-11-28T10:03:23+00:00"
+   "title": "Bengal madrasahs to discontinue Friday weekly holiday, observe Sunday off",
+   "url": "https://www.thehindu.com/news/national/west-bengal/bengal-madrasahs-to-discontinue-friday-weekly-holiday-observe-sunday-off/article71754193.ece",
+   "date": "2026-11-28T11:31:49+00:00"
   },
   {
    "source": "The Hindu",
    "topic": "india",
-   "title": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
-   "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece",
-   "date": "2026-11-28T10:02:51+00:00"
+   "title": "Delimitation based on latest census will pose a danger to Tamil Nadu: M.K Stalin",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/delimitation-based-on-latest-census-will-pose-a-danger-to-tamil-nadu-mk-stalin/article71754272.ece",
+   "date": "2026-11-28T11:30:34+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Swift Saw the Secrets of Space Before Falling to Earth",
+   "url": "https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/",
+   "date": "2026-11-28T11:30:00+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Delimitation Bill LIVE: This Bill is dangerous to democracy, says Kharge; DMK announces support for Centre's proposal",
+   "url": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+   "date": "2026-11-28T11:28:32+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Basanagouda Daddal takes charge as KKRDB chairman",
+   "url": "https://www.thehindu.com/news/national/karnataka/basanagouda-daddal-takes-charge-as-kkrdb-chairman/article71754112.ece",
+   "date": "2026-11-28T11:24:48+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "As Spain votes, what could change for Europe?",
+   "url": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-28T11:24:00+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "Germany news: Job market unlikely to recover before summer",
+   "url": "https://www.dw.com/en/germany-news-job-market-unlikely-to-recover-before-summer/live-80084280?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-28T11:22:00+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Retired Army officer killed as private school bus runs over him near Mannivakkam",
+   "url": "https://www.thehindu.com/news/cities/chennai/retired-army-officer-killed-as-private-school-bus-runs-over-him-near-mannivakkam/article71754246.ece",
+   "date": "2026-11-28T11:19:08+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T11:18:37+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Rahul, Akhilesh, Mamata to participate in ‘Constitution Protection March’ in Bhopal",
+   "url": "https://www.thehindu.com/news/national/rahul-akhilesh-mamata-to-participate-in-constitution-protection-march-in-bhopal/article71754029.ece",
+   "date": "2026-11-28T11:11:34+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Palakkad ticket wins ₹12 crore first prize of Pooja Bumper Lottery in Keralam",
+   "url": "https://www.thehindu.com/news/national/kerala/palakkad-ticket-wins-12-crore-first-prize-of-pooja-bumper-lottery-in-keralam/article71754121.ece",
+   "date": "2026-11-28T11:09:18+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "30.000 euro ingezameld voor uitvaart van man die dood werd gevonden in vriezer",
+   "url": "https://www.nu.nl/binnenland/6418094/30000-euro-ingezameld-voor-uitvaart-van-man-die-dood-werd-gevonden-in-vriezer.html",
+   "date": "2026-11-28T10:51:31+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to 60% Off",
+   "url": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-28-2026/",
+   "date": "2026-11-28T10:50:44+00:00"
+  },
+  {
+   "source": "CNBC",
+   "topic": "fin",
+   "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+   "url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
+   "date": "2026-11-28T10:50:44+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Schietincident op N11 bij Zoeterwoude, aanhoudingen verricht",
+   "url": "https://nos.nl/l/2641373",
+   "date": "2026-11-28T10:49:53+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Identiteit Afghaanse vrouwen steeds verder uitgewist, nu ook geen voornaam meer",
+   "url": "https://nos.nl/l/2641372",
+   "date": "2026-11-28T10:45:29+00:00"
+  },
+  {
+   "source": "Politico Europe",
+   "topic": "geo",
+   "title": "Santiago Abascal: Spain’s far-right kingmaker",
+   "url": "https://www.politico.eu/article/santiago-abascal-spain-election-2026-far-right-kingmaker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "date": "2026-11-28T10:45:17+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+   "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+   "date": "2026-11-28T10:36:41+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Man getaserd en gebeten na botsing met bevroren voorruit in Bleiswijk",
+   "url": "https://nos.nl/l/2641371",
+   "date": "2026-11-28T10:36:07+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Commissie wil voor aantreden nieuw Congres omstreden verbouwingsplannen Trump goedkeuren",
+   "url": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+   "date": "2026-11-28T10:35:00+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "geo",
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T10:34:58+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+   "url": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss",
+   "date": "2026-11-28T10:32:42+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Zeven doden en bijna honderd gewonden door explosie bij Afghaanse school",
+   "url": "https://www.nu.nl/buitenland/6418092/zeven-doden-en-bijna-honderd-gewonden-door-explosie-bij-afghaanse-school.html",
+   "date": "2026-11-28T10:31:04+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Huren bij een hospita: vergane glorie of terug van weggeweest?",
+   "url": "https://nos.nl/l/2641370",
+   "date": "2026-11-28T10:28:19+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Tirumala temple to release Vaikunta Dwara Darshan tickets from November 28; TTD cancels VIP Break Darshan",
+   "url": "https://www.livemint.com/news/trends/tirumala-temple-to-release-vaikunta-dwara-darshan-tickets-from-november-28-ttd-cancels-vip-break-darshan-11795860543998.html",
+   "date": "2026-11-28T10:28:03+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "VVD-leden verdeeld over onrust in partij, spanning over toespraak Yesilgöz",
+   "url": "https://nos.nl/l/2641369",
+   "date": "2026-11-28T10:27:24+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "29 Best Black Friday Deals Under $100 (2026)",
+   "url": "https://www.wired.com/story/best-black-friday-deals-under-100-11-28-2026/",
+   "date": "2026-11-28T10:25:39+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Diederik Gommers keert in 2027 terug bij Erasmus MC, maar niet als ic-baas",
+   "url": "https://www.nu.nl/binnenland/6418088/diederik-gommers-keert-in-2027-terug-bij-erasmus-mc-maar-niet-als-ic-baas.html",
+   "date": "2026-11-28T10:21:10+00:00"
+  },
+  {
+   "source": "DW",
+   "topic": "geo",
+   "title": "Afghanistan: Several killed in blast near middle school",
+   "url": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-rdf",
+   "date": "2026-11-28T10:21:00+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "Video | Jongen duikt net op tijd weg voor trein in Letland",
+   "url": "https://www.nu.nl/332717/video/jongen-duikt-net-op-tijd-weg-voor-trein-in-letland.html",
+   "date": "2026-11-28T10:12:32+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Rusland claimt neerhalen meer dan 1200 Oekraïense drones, deel bij Moskou",
+   "url": "https://nos.nl/l/2641366",
+   "date": "2026-11-28T10:09:33+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "I Found the 26 Best Black Friday Tech Deals, Up to 50% Off (2026)",
+   "url": "https://www.wired.com/story/best-black-friday-tech-deals-11-28-26/",
+   "date": "2026-11-28T10:09:03+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Several students killed in blast beside Afghan school",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "date": "2026-11-28T10:05:26+00:00"
   },
   {
    "source": "Wired",
@@ -215,39 +460,11 @@
    "date": "2026-11-28T10:00:00+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Delimitation is about gerrymandering, nothing to do with women’s reservation: Arundhati Roy",
-   "url": "https://www.thehindu.com/news/national/delimitation-is-about-gerrymandering-nothing-to-do-with-womens-reservation-arundhati-roy/article71754110.ece",
-   "date": "2026-11-28T09:59:48+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Delimitation Bill a bid to reduce political representation of south Indian States: Chennithala",
-   "url": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
-   "date": "2026-11-28T09:59:43+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Rahul, Akhilesh, Mamata to participate in ‘Constitution Protection March’ in Bhopal",
-   "url": "https://www.thehindu.com/news/national/rahul-akhilesh-mamata-to-participate-in-constitution-protection-march-in-bhopal/article71754029.ece",
-   "date": "2026-11-28T09:59:17+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Former High Court judges review arrangements at Thirupparankundram ahead of ‘deepathoon’ lamp lighting",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/former-high-court-judges-review-arrangements-at-thirupparankundram-ahead-of-deepathoon-lamp-lighting-crpf-takes-over-security/article71753979.ece",
-   "date": "2026-11-28T09:56:00+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Baas atoomagentschap verdedigt keuze voor gesanctioneerde Rus als nummer twee",
-   "url": "https://www.volkskrant.nl/buitenland/baas-atoomagentschap-verdedigt-keuze-voor-gesanctioneerde-rus-als-nummer-twee~b34eb585/",
-   "date": "2026-11-28T09:53:00+00:00"
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Kenyan starvation cult leader found guilty over deaths of 123 followers",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss",
+   "date": "2026-11-28T09:59:11+00:00"
   },
   {
    "source": "NOS",
@@ -257,11 +474,11 @@
    "date": "2026-11-28T09:47:53+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Methil Radhakrishnan receives Ezhuthachan Award, Keralam’s highest literary honour",
-   "url": "https://www.thehindu.com/news/national/kerala/methil-radhakrishnan-receives-ezhuthachan-award-keralams-highest-literary-honour/article71753774.ece",
-   "date": "2026-11-28T09:43:21+00:00"
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Gaza’s chess players survive a genocide and rebuild a community",
+   "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+   "date": "2026-11-28T09:41:45+00:00"
   },
   {
    "source": "Al Jazeera",
@@ -287,8 +504,8 @@
   {
    "source": "NU.nl",
    "topic": "nl",
-   "title": "DNA-onderzoek lost meer misdrijven op, zonder heel Nederland in de databank",
-   "url": "https://www.nu.nl/nujij/6417907/dna-onderzoek-lost-meer-misdrijven-op-zonder-heel-nederland-in-de-databank.html",
+   "title": "DNA-databank groeit zonder DNA van alle Nederlanders: 'Geweldige kans'",
+   "url": "https://www.nu.nl/binnenland/6417907/dna-databank-groeit-zonder-dna-van-alle-nederlanders-geweldige-kans.html",
    "date": "2026-11-28T09:30:04+00:00"
   },
   {
@@ -306,13 +523,6 @@
    "date": "2026-11-28T09:10:32+00:00"
   },
   {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
-   "url": "https://www.wired.com/story/best-black-friday-deals-11-28-2026/",
-   "date": "2026-11-28T09:08:13+00:00"
-  },
-  {
    "source": "NOS",
    "topic": "nl",
    "title": "Zeker 7 doden en bijna 100 gewonden door explosie bij school in Afghanistan",
@@ -325,13 +535,6 @@
    "title": "CRISPR is now being used to control genes, not just edit them",
    "url": "https://www.newscientist.com/article/2601111-crispr-is-now-being-used-to-control-genes-instead-of-editing-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
    "date": "2026-11-28T09:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
-   "url": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/",
-   "date": "2026-11-28T08:58:38+00:00"
   },
   {
    "source": "Al Jazeera",
@@ -348,13 +551,6 @@
    "date": "2026-11-28T08:45:26+00:00"
   },
   {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "20 Best Black Friday Headphone Deals (2026): Up to 57% Off",
-   "url": "https://www.wired.com/story/black-friday-headphone-deals-11-28-26/",
-   "date": "2026-11-28T08:43:46+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "nl",
    "title": "Wereldwijde temperatuur voor het eerst zeven dagen op rij 2 graden 'te hoog'",
@@ -369,32 +565,11 @@
    "date": "2026-11-28T08:30:00+00:00"
   },
   {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "The 18 Best Black Friday TV Deals (2026): Up to 60% Off",
-   "url": "https://www.wired.com/story/best-black-friday-tv-deals-11-28-2026/",
-   "date": "2026-11-28T08:29:25+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
-   "url": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
-   "date": "2026-11-28T08:24:03+00:00"
-  },
-  {
    "source": "Mint",
    "topic": "india",
    "title": "Chandrababu Naidu hails Chennai Jain couple's  ₹206 crore donation to Tirumala temple: Here's what they offered",
    "url": "https://www.livemint.com/news/india/chandrababu-naidu-hails-chennai-jain-couples-rs-206-crore-donation-to-tirumala-temple-heres-what-they-offered-11795853583705.html",
    "date": "2026-11-28T08:23:52+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "I Found the Best Black Friday Deals on Phones (2026): iPhone, Pixel, and Moto Up to 50% Off",
-   "url": "https://www.wired.com/story/best-black-friday-phone-deals-11-28-26/",
-   "date": "2026-11-28T08:20:03+00:00"
   },
   {
    "source": "DW",
@@ -404,32 +579,11 @@
    "date": "2026-11-28T08:19:00+00:00"
   },
   {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
-   "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
-   "date": "2026-11-28T08:05:18+00:00"
-  },
-  {
    "source": "de Volkskrant",
    "topic": "nl",
    "title": "ProRail zet roltrappen op vijf stations stil na ongeluk op Amsterdam Bijlmer Arena",
    "url": "https://www.volkskrant.nl/binnenland/prorail-zet-roltrappen-op-vijf-stations-stil-na-ongeluk-op-amsterdam-bijlmer-arena~b0c278fa/",
-   "date": "2026-11-28T07:59:17+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Twee bewakers Artsen zonder Grenzen gedood bij Israëlische aanval op Gaza",
-   "url": "https://www.nu.nl/midden-oostenconflict/6418077/twee-bewakers-artsen-zonder-grenzen-gedood-bij-israelische-aanval-op-gaza.html",
-   "date": "2026-11-28T07:50:46+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
-   "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
-   "date": "2026-11-28T07:42:09+00:00"
+   "date": "2026-11-28T07:59:00+00:00"
   },
   {
    "source": "BBC",
@@ -446,53 +600,11 @@
    "date": "2026-11-28T07:25:21+00:00"
   },
   {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
-   "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
-   "date": "2026-11-28T07:22:17+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
-   "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
-   "date": "2026-11-28T07:21:22+00:00"
-  },
-  {
    "source": "NU.nl",
-   "topic": "nl",
-   "title": "Video | Man scheurt met elektrische step over Pools voetbalveld tijdens wedstrijd",
-   "url": "https://www.nu.nl/332713/video/man-scheurt-met-elektrische-step-over-pools-voetbalveld-tijdens-wedstrijd.html",
-   "date": "2026-11-28T07:07:43+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
+   "topic": "tech",
    "title": "Schermtijd | Bij Boer zoekt Vrouw staan deelnemers te janken om een AI-liedje",
    "url": "https://www.nu.nl/tech/6418004/bij-boer-zoekt-vrouw-staan-deelnemers-te-janken-om-een-ai-liedje.html",
    "date": "2026-11-28T07:02:03+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Studentenbeweging in Servië kiest professor scheikunde als presidentskandidaat",
-   "url": "https://www.nu.nl/buitenland/6418073/studentenbeweging-in-servie-kiest-professor-scheikunde-als-presidentskandidaat.html",
-   "date": "2026-11-28T06:58:21+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Nederlandse Hitler-bewonderaar in Duitsland veroordeeld wegens aanzetten tot haat",
-   "url": "https://nos.nl/l/2641344",
-   "date": "2026-11-28T06:35:03+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Miljoenen mensen kunnen digitaal niet meekomen, maar hulppunten staan onder druk",
-   "url": "https://nos.nl/l/2641340",
-   "date": "2026-11-28T06:20:58+00:00"
   },
   {
    "source": "DW",
@@ -523,32 +635,11 @@
    "date": "2026-11-28T06:00:01+00:00"
   },
   {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Aanklagers eisen 25 jaar cel voor Canadees die zelfdodingspakketten verstuurde",
-   "url": "https://www.nu.nl/buitenland/6418072/aanklagers-eisen-25-jaar-cel-voor-canadees-die-zelfdodingspakketten-verstuurde.html",
-   "date": "2026-11-28T05:56:48+00:00"
-  },
-  {
    "source": "Mint",
    "topic": "india",
    "title": "Delimitation explained: Will southern states lose political power? The numbers behind the 50% Lok Sabha expansion",
    "url": "https://www.livemint.com/news/india/delimitation-explained-will-southern-states-lose-political-power-the-numbers-behind-the-50-lok-sabha-expansion-11795844320333.html",
    "date": "2026-11-28T05:46:17+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Wekdienst 28/11: Partijcongres VVD • World Tour shorttrack in Shanghai",
-   "url": "https://nos.nl/l/2641337",
-   "date": "2026-11-28T05:41:05+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "VVD kijkt vandaag naar Yesilgöz: welke petten kan een partijleider op?",
-   "url": "https://nos.nl/l/2641336",
-   "date": "2026-11-28T05:10:05+00:00"
   },
   {
    "source": "Financial Times",
@@ -574,15 +665,15 @@
   {
    "source": "Financial Times",
    "topic": "fin",
-   "title": "‘Only in America’ and other good lies",
-   "url": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
+   "title": "Pedro Sánchez: the partisan warrior fighting to the last",
+   "url": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
    "date": "2026-11-28T05:00:32+00:00"
   },
   {
    "source": "Financial Times",
    "topic": "fin",
-   "title": "Pedro Sánchez: the partisan warrior fighting to the last",
-   "url": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
+   "title": "‘Only in America’ and other good lies",
+   "url": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
    "date": "2026-11-28T05:00:32+00:00"
   },
   {
@@ -635,13 +726,6 @@
    "date": "2026-11-28T04:00:16+00:00"
   },
   {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "De strijd om de ziel van de VVD: ‘Als je Dilan nu hoort, lijkt het alsof we een partij voor ondernemers zijn’",
-   "url": "https://www.volkskrant.nl/politiek/de-strijd-om-de-ziel-van-de-vvd-als-je-dilan-nu-hoort-lijkt-het-alsof-we-een-partij-voor-ondernemers-zijn~ba9dbca6/",
-   "date": "2026-11-28T04:00:00+00:00"
-  },
-  {
    "source": "Politico Europe",
    "topic": "geo",
    "title": "Ein Spaziergang mit Markus Frohnmaier",
@@ -670,13 +754,6 @@
    "date": "2026-11-28T03:28:32+00:00"
   },
   {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Acht Peruaanse militairen omgekomen bij helikoptercrash",
-   "url": "https://nos.nl/l/2641335",
-   "date": "2026-11-28T03:10:50+00:00"
-  },
-  {
    "source": "Politico Europe",
    "topic": "geo",
    "title": "9 things you need to read ahead of the Spanish election",
@@ -684,25 +761,11 @@
    "date": "2026-11-28T03:00:00+00:00"
   },
   {
-   "source": "Mint",
-   "topic": "india",
-   "title": "Norse Atlantic Airways: Another European airline goes bankrupt amid Iran war, rising fuel costs: All you need to know",
-   "url": "https://www.livemint.com/news/world/norse-atlantic-airways-another-european-airline-goes-bankrupt-amid-iran-war-rising-fuel-costs-all-you-need-to-know-11795833764321.html",
-   "date": "2026-11-28T02:55:44+00:00"
-  },
-  {
    "source": "DW",
    "topic": "geo",
    "title": "Polls close in Taiwan's closely watched local elections",
    "url": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
    "date": "2026-11-28T02:37:00+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Blussen bij broeiende silo in Drachten heeft effect: temperatuur daalt",
-   "url": "https://nos.nl/l/2641334",
-   "date": "2026-11-28T01:43:17+00:00"
   },
   {
    "source": "BBC",
@@ -854,13 +917,6 @@
   {
    "source": "CNBC",
    "topic": "fin",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-   "date": "2026-11-27T23:07:13+00:00"
-  },
-  {
-   "source": "CNBC",
-   "topic": "fin",
    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
    "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
    "date": "2026-11-27T22:00:57+00:00"
@@ -880,13 +936,6 @@
    "date": "2026-11-27T21:24:10+00:00"
   },
   {
-   "source": "DW",
-   "topic": "geo",
-   "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
-   "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-27T20:43:00+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "tech",
    "title": "OpenAI spant rechtszaak aan tegen Apple over diefstal bedrijfsgegevens",
@@ -901,25 +950,11 @@
    "date": "2026-11-27T20:10:58+00:00"
   },
   {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-   "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-27T20:06:31+00:00"
-  },
-  {
    "source": "The Guardian",
    "topic": "clim",
    "title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
    "url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
    "date": "2026-11-27T19:30:18+00:00"
-  },
-  {
-   "source": "DW",
-   "topic": "geo",
-   "title": "Germany news: Lawmakers approve debt-laden 2027 budget",
-   "url": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-27T19:18:00+00:00"
   },
   {
    "source": "Carbon Brief",
@@ -943,13 +978,6 @@
    "date": "2026-11-27T18:11:52+00:00"
   },
   {
-   "source": "DW",
-   "topic": "geo",
-   "title": "Spanish rider Marc Marquez announces MotoGP retirement, days after clinching record 8th world title",
-   "url": "https://www.dw.com/en/spanish-rider-marc-marquez-announces-motogp-retirement-days-after-clinching-record-8th-world-title/a-80079930?maca=en-rss-en-all-1573-rdf",
-   "date": "2026-11-27T18:01:00+00:00"
-  },
-  {
    "source": "BBC",
    "topic": "geo",
    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
@@ -969,13 +997,6 @@
    "title": "The best Black Friday deals Ars could find",
    "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
    "date": "2026-11-27T17:05:37+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "geo",
-   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-27T16:53:46+00:00"
   },
   {
    "source": "CNBC",
@@ -1034,13 +1055,6 @@
    "date": "2026-11-27T14:00:00+00:00"
   },
   {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "VVD’ers uit kabinet gaan om bekritiseerde politiek leider Yesilgöz heen staan",
-   "url": "https://www.volkskrant.nl/politiek/vvd-ers-uit-kabinet-gaan-om-bekritiseerde-politiek-leider-yesilgoz-heen-staan~b29823c5/",
-   "date": "2026-11-27T13:48:45+00:00"
-  },
-  {
    "source": "CNBC",
    "topic": "fin",
    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
@@ -1081,13 +1095,6 @@
    "title": "The man who coined ‘Brexit’ likes the sound of ‘Breturn’ and ‘Brejoin’",
    "url": "https://www.politico.eu/article/the-man-who-coined-brexit-likes-the-sound-of-breturn-and-brejoin-peter-wilding/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "date": "2026-11-27T10:32:43+00:00"
-  },
-  {
-   "source": "Politico Europe",
-   "topic": "geo",
-   "title": "Dépendance aux Big Tech américaines : où en est la France par rapport à ses voisins européens ?",
-   "url": "https://www.politico.eu/article/ue-tech-americaine-dependance-souverainete-ia-cloud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-27T09:41:42+00:00"
   },
   {
    "source": "New Scientist",
@@ -1151,6 +1158,13 @@
    "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
    "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
    "date": "2026-11-26T18:00:29+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Ze waren lange meiden, dus kregen ze groeiremmers. En nu maken ze zich zorgen over de effecten",
+   "url": "https://www.volkskrant.nl/wetenschap/ze-waren-lange-meiden-dus-kregen-ze-groeiremmers-en-nu-maken-ze-zich-zorgen-over-de-effecten~bd1ffb20/",
+   "date": "2026-11-26T17:00:54+00:00"
   },
   {
    "source": "NU.nl",
@@ -1329,6 +1343,13 @@
   },
   {
    "source": "The Guardian",
+   "topic": "geo",
+   "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+   "url": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+   "date": "2026-11-25T19:57:49+00:00"
+  },
+  {
+   "source": "The Guardian",
    "topic": "clim",
    "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa – video",
    "url": "https://www.theguardian.com/us-news/video/2026/nov/25/cloud-of-smoke-seen-after-us-army-detonates-bomb-making-chemicals-in-iowa-video",
@@ -1361,27 +1382,6 @@
    "title": "EU wil koploper op gebied van kwantumtechnologie worden na gelopen AI-race",
    "url": "https://www.nu.nl/tech/6417748/eu-wil-koploper-op-gebied-van-kwantumtechnologie-worden-na-gelopen-ai-race.html",
    "date": "2026-11-25T13:25:28+00:00"
-  },
-  {
-   "source": "The Guardian",
-   "topic": "geo",
-   "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
-   "date": "2026-11-25T11:28:05+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T10:52:09+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "EA adds AI-generated John Motson to FC 27 video game",
-   "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T10:11:34+00:00"
   }
  ]
 }
