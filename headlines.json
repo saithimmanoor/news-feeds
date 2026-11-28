@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-28T08:52:21+00:00",
+ "generated_utc": "2026-11-28T10:10:01+00:00",
  "status": [
   {
    "name": "BBC",
@@ -117,8 +117,9 @@
    "name": "Indian Express",
    "topic": "india",
    "url": "https://indianexpress.com/section/india/feed/",
-   "ok": true,
-   "items": 8
+   "ok": false,
+   "items": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Mint",
@@ -173,9 +174,8 @@
    "name": "Fierce Pharma",
    "topic": "health",
    "url": "https://www.fiercepharma.com/rss/xml",
-   "ok": false,
-   "items": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "items": 0
   },
   {
    "name": "Spaceflight Now",
@@ -187,11 +187,165 @@
  ],
  "items": [
   {
-   "source": "Indian Express",
+   "source": "The Hindu",
    "topic": "india",
-   "title": "Varanasi to get 89-km elevated corridors along Rivers Ganga and Varuna to boost connectivity",
-   "url": "https://indianexpress.com/article/india/varanasi-89-km-elevated-corridors-ganga-varuna-connectivity-10982317/",
-   "date": "2026-11-28T08:48:03+00:00"
+   "title": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; SC-appointed receivers climb hill",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
+   "date": "2026-11-28T10:05:06+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Tamil Nadu library scam: Every reader of a spurious book becomes an invisible victim of an unpardonable crime, says Special Court",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-library-scam-every-reader-of-a-spurious-book-becomes-an-invisible-victim-of-an-unpardonable-crime-says-special-court/article71753901.ece",
+   "date": "2026-11-28T10:03:23+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
+   "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece",
+   "date": "2026-11-28T10:02:51+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles",
+   "url": "https://www.wired.com/story/dark-matter-might-have-its-own-periodic-table-of-invisible-particles/",
+   "date": "2026-11-28T10:00:00+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Delimitation is about gerrymandering, nothing to do with women’s reservation: Arundhati Roy",
+   "url": "https://www.thehindu.com/news/national/delimitation-is-about-gerrymandering-nothing-to-do-with-womens-reservation-arundhati-roy/article71754110.ece",
+   "date": "2026-11-28T09:59:48+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Delimitation Bill a bid to reduce political representation of south Indian States: Chennithala",
+   "url": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
+   "date": "2026-11-28T09:59:43+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Rahul, Akhilesh, Mamata to participate in ‘Constitution Protection March’ in Bhopal",
+   "url": "https://www.thehindu.com/news/national/rahul-akhilesh-mamata-to-participate-in-constitution-protection-march-in-bhopal/article71754029.ece",
+   "date": "2026-11-28T09:59:17+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Former High Court judges review arrangements at Thirupparankundram ahead of ‘deepathoon’ lamp lighting",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/former-high-court-judges-review-arrangements-at-thirupparankundram-ahead-of-deepathoon-lamp-lighting-crpf-takes-over-security/article71753979.ece",
+   "date": "2026-11-28T09:56:00+00:00"
+  },
+  {
+   "source": "de Volkskrant",
+   "topic": "nl",
+   "title": "Baas atoomagentschap verdedigt keuze voor gesanctioneerde Rus als nummer twee",
+   "url": "https://www.volkskrant.nl/buitenland/baas-atoomagentschap-verdedigt-keuze-voor-gesanctioneerde-rus-als-nummer-twee~b34eb585/",
+   "date": "2026-11-28T09:53:00+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Zeker 36 ontheffingen voor afsteken vuurwerk verleend",
+   "url": "https://nos.nl/l/2641362",
+   "date": "2026-11-28T09:47:53+00:00"
+  },
+  {
+   "source": "The Hindu",
+   "topic": "india",
+   "title": "Methil Radhakrishnan receives Ezhuthachan Award, Keralam’s highest literary honour",
+   "url": "https://www.thehindu.com/news/national/kerala/methil-radhakrishnan-receives-ezhuthachan-award-keralams-highest-literary-honour/article71753774.ece",
+   "date": "2026-11-28T09:43:21+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "date": "2026-11-28T09:35:15+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max",
+   "url": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/",
+   "date": "2026-11-28T09:32:04+00:00"
+  },
+  {
+   "source": "Mint",
+   "topic": "india",
+   "title": "Hot puris from baskets, gloved staff: Viral video shows how meals are served on 15-day Jagriti Yatra train",
+   "url": "https://www.livemint.com/news/trends/hot-puris-from-baskets-gloved-staff-viral-video-shows-how-meals-are-served-on-15-day-jagriti-yatra-train-11795856972969.html",
+   "date": "2026-11-28T09:31:32+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "DNA-onderzoek lost meer misdrijven op, zonder heel Nederland in de databank",
+   "url": "https://www.nu.nl/nujij/6417907/dna-onderzoek-lost-meer-misdrijven-op-zonder-heel-nederland-in-de-databank.html",
+   "date": "2026-11-28T09:30:04+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
+   "url": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/",
+   "date": "2026-11-28T09:15:38+00:00"
+  },
+  {
+   "source": "BBC",
+   "topic": "tech",
+   "title": "Pensions and benefits services still down after 'cyber incident'",
+   "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T09:10:32+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+   "url": "https://www.wired.com/story/best-black-friday-deals-11-28-2026/",
+   "date": "2026-11-28T09:08:13+00:00"
+  },
+  {
+   "source": "NOS",
+   "topic": "nl",
+   "title": "Zeker 7 doden en bijna 100 gewonden door explosie bij school in Afghanistan",
+   "url": "https://nos.nl/l/2641356",
+   "date": "2026-11-28T09:03:11+00:00"
+  },
+  {
+   "source": "New Scientist",
+   "topic": "sci",
+   "title": "CRISPR is now being used to control genes, not just edit them",
+   "url": "https://www.newscientist.com/article/2601111-crispr-is-now-being-used-to-control-genes-instead-of-editing-them/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "date": "2026-11-28T09:00:00+00:00"
+  },
+  {
+   "source": "Wired",
+   "topic": "tech",
+   "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
+   "url": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/",
+   "date": "2026-11-28T08:58:38+00:00"
+  },
+  {
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "Spain faces political shift as far right gains ground",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+   "date": "2026-11-28T08:54:02+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
+   "title": "United Fidelity Bank omgevallen: grootste bankfaillissement in VS in twee jaar",
+   "url": "https://www.nu.nl/economie/6418081/united-fidelity-bank-omgevallen-grootste-bankfaillissement-in-vs-in-twee-jaar.html",
+   "date": "2026-11-28T08:45:26+00:00"
   },
   {
    "source": "Wired",
@@ -201,53 +355,18 @@
    "date": "2026-11-28T08:43:46+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Methil Radhakrishnan receives Ezhuthachan Award, Keralam’s highest literary honour",
-   "url": "https://www.thehindu.com/news/national/kerala/methil-radhakrishnan-receives-ezhuthachan-award-keralams-highest-literary-honour/article71753774.ece",
-   "date": "2026-11-28T08:42:24+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "nl",
-   "title": "Wereldwijde temperatuur voor eerst zeven dagen na elkaar 2 graden 'te warm'",
-   "url": "https://www.nu.nl/buitenland/6418080/wereldwijde-temperatuur-voor-eerst-zeven-dagen-na-elkaar-2-graden-te-warm.html",
+   "title": "Wereldwijde temperatuur voor het eerst zeven dagen op rij 2 graden 'te hoog'",
+   "url": "https://www.nu.nl/buitenland/6418080/wereldwijde-temperatuur-voor-het-eerst-zeven-dagen-op-rij-2-graden-te-hoog.html",
    "date": "2026-11-28T08:42:03+00:00"
   },
   {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "Pensions and benefits services still down after 'cyber incident'",
-   "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-28T08:41:54+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Why BJP is defending Sharad Pawar as Congress attacks him over Delimitation Bill",
-   "url": "https://indianexpress.com/article/india/bjp-defends-sharad-pawar-congress-delimitation-bill-maharashtra-10982323/",
-   "date": "2026-11-28T08:39:47+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Former High Court judges review arrangements at Thirupparankundram ahead of ‘Deepathoon’ lamp lighting; CRPF takes over security",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/former-high-court-judges-review-arrangements-at-thirupparankundram-ahead-of-deepathoon-lamp-lighting-crpf-takes-over-security/article71753979.ece",
-   "date": "2026-11-28T08:37:15+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Mission Chakkakompan: Coexistence Collective slams operation to radio-collar problem tusker, demands probe",
-   "url": "https://www.thehindu.com/news/national/kerala/mission-chakkakompan-coexistence-collective-slams-operation-to-radio-collar-problem-tusker-demands-probe/article71753829.ece",
-   "date": "2026-11-28T08:36:35+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Delimitation Bill LIVE: This Bill is dangerous to democracy, says Kharge; DMK announces support for Centre's proposal",
-   "url": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
-   "date": "2026-11-28T08:30:15+00:00"
+   "source": "Al Jazeera",
+   "topic": "geo",
+   "title": "What can we learn from successful peace deals? | Episode 2",
+   "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/28/what-can-we-learn-from-successful-peace-deals-episode-2?traffic_source=rss",
+   "date": "2026-11-28T08:30:00+00:00"
   },
   {
    "source": "Wired",
@@ -255,13 +374,6 @@
    "title": "The 18 Best Black Friday TV Deals (2026): Up to 60% Off",
    "url": "https://www.wired.com/story/best-black-friday-tv-deals-11-28-2026/",
    "date": "2026-11-28T08:29:25+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "INDIA bloc leaders meet at Kharge’s residence to discuss joint strategy ahead of Parliament’s special sitting",
-   "url": "https://www.thehindu.com/news/national/parliaments-special-sitting-india-bloc-floor-leaders-deliberate-joint-strategy/article71753841.ece",
-   "date": "2026-11-28T08:28:23+00:00"
   },
   {
    "source": "Al Jazeera",
@@ -278,13 +390,6 @@
    "date": "2026-11-28T08:23:52+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Devotees gather at Thirupparankundram foothills under tight security",
-   "url": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-at-thiruparankundram-foothills-under-tight-security/article71753537.ece",
-   "date": "2026-11-28T08:23:35+00:00"
-  },
-  {
    "source": "Wired",
    "topic": "tech",
    "title": "I Found the Best Black Friday Deals on Phones (2026): iPhone, Pixel, and Moto Up to 50% Off",
@@ -299,32 +404,11 @@
    "date": "2026-11-28T08:19:00+00:00"
   },
   {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
-   "date": "2026-11-28T08:18:03+00:00"
-  },
-  {
-   "source": "The Hindu",
-   "topic": "india",
-   "title": "KCBC panel expresses concern at delay in announcing UDF govt’s liquor policy",
-   "url": "https://www.thehindu.com/news/cities/Kochi/kcbc-panel-expresses-concern-at-delay-in-announcing-udf-govts-liquor-policy/article71753760.ece",
-   "date": "2026-11-28T08:15:01+00:00"
-  },
-  {
    "source": "Al Jazeera",
    "topic": "geo",
    "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
    "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
    "date": "2026-11-28T08:05:18+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "A high-school dropout, forged medical degrees and the long road to ‘scam’",
-   "url": "https://indianexpress.com/article/india/class-11-dropout-forged-medical-degrees-practised-doctor-delhi-rajasthan-sog-10982259/",
-   "date": "2026-11-28T07:59:37+00:00"
   },
   {
    "source": "de Volkskrant",
@@ -378,6 +462,13 @@
   {
    "source": "NU.nl",
    "topic": "nl",
+   "title": "Video | Man scheurt met elektrische step over Pools voetbalveld tijdens wedstrijd",
+   "url": "https://www.nu.nl/332713/video/man-scheurt-met-elektrische-step-over-pools-voetbalveld-tijdens-wedstrijd.html",
+   "date": "2026-11-28T07:07:43+00:00"
+  },
+  {
+   "source": "NU.nl",
+   "topic": "nl",
    "title": "Schermtijd | Bij Boer zoekt Vrouw staan deelnemers te janken om een AI-liedje",
    "url": "https://www.nu.nl/tech/6418004/bij-boer-zoekt-vrouw-staan-deelnemers-te-janken-om-een-ai-liedje.html",
    "date": "2026-11-28T07:02:03+00:00"
@@ -390,32 +481,11 @@
    "date": "2026-11-28T06:58:21+00:00"
   },
   {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Trump’s tariffs have become America’s new normal",
-   "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
-   "date": "2026-11-28T06:57:19+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Four days after the full moon, a second flame for a Madurai hill",
-   "url": "https://indianexpress.com/article/india/madurai-hill-karthigai-deepam-supreme-court-four-days-full-moon-10982204/",
-   "date": "2026-11-28T06:39:54+00:00"
-  },
-  {
    "source": "NOS",
    "topic": "nl",
    "title": "Nederlandse Hitler-bewonderaar in Duitsland veroordeeld wegens aanzetten tot haat",
    "url": "https://nos.nl/l/2641344",
    "date": "2026-11-28T06:35:03+00:00"
-  },
-  {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Elon Musk can afford a little MAGA amnesia",
-   "url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
-   "date": "2026-11-28T06:25:24+00:00"
   },
   {
    "source": "NOS",
@@ -453,41 +523,6 @@
    "date": "2026-11-28T06:00:01+00:00"
   },
   {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Walmart Promo Codes: 20% Off for November 2026",
-   "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-   "date": "2026-11-28T06:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Govee Discount Codes and Deals: 30% Off",
-   "url": "https://www.wired.com/story/govee-discount-code/",
-   "date": "2026-11-28T06:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
-   "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
-   "date": "2026-11-28T06:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Corsair Discount Code: Up to 50% Off for November 2026",
-   "url": "https://www.wired.com/story/corsair-coupon/",
-   "date": "2026-11-28T06:00:00+00:00"
-  },
-  {
-   "source": "Wired",
-   "topic": "tech",
-   "title": "Zoro Coupon Codes: 20% Off November 2026",
-   "url": "https://www.wired.com/story/zoro-promo-code/",
-   "date": "2026-11-28T06:00:00+00:00"
-  },
-  {
    "source": "NU.nl",
    "topic": "nl",
    "title": "Aanklagers eisen 25 jaar cel voor Canadees die zelfdodingspakketten verstuurde",
@@ -509,25 +544,11 @@
    "date": "2026-11-28T05:41:05+00:00"
   },
   {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "DMK backs delimitation Bills ahead of special Parliament session",
-   "url": "https://indianexpress.com/article/india/dmk-backs-delimitation-bills-ahead-of-special-parliament-session-10982113/",
-   "date": "2026-11-28T05:35:51+00:00"
-  },
-  {
    "source": "NOS",
    "topic": "nl",
    "title": "VVD kijkt vandaag naar Yesilgöz: welke petten kan een partijleider op?",
    "url": "https://nos.nl/l/2641336",
    "date": "2026-11-28T05:10:05+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Owen Wijndal knokte zich telkens terug bij Ajax: 'Onkruid vergaat niet'",
-   "url": "https://www.nu.nl/voetbal/6417950/owen-wijndal-knokte-zich-telkens-terug-bij-ajax-onkruid-vergaat-niet.html",
-   "date": "2026-11-28T05:02:49+00:00"
   },
   {
    "source": "Financial Times",
@@ -572,27 +593,6 @@
    "date": "2026-11-28T05:00:14+00:00"
   },
   {
-   "source": "Al Jazeera",
-   "topic": "geo",
-   "title": "Behind India’s IIT dream: Student suicides and gaps in support",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
-   "date": "2026-11-28T04:59:50+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Gold Rate Today, November 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
-   "url": "https://indianexpress.com/article/india/gold-rate-today-november-28-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10982030/",
-   "date": "2026-11-28T04:50:41+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "ProRail zet preventief roltrappen uit na incident bij station Bijlmer ArenA",
-   "url": "https://www.nu.nl/binnenland/6418071/prorail-zet-preventief-roltrappen-uit-na-incident-bij-station-bijlmer-arena.html",
-   "date": "2026-11-28T04:47:44+00:00"
-  },
-  {
    "source": "NRC",
    "topic": "nl",
    "title": "Is Dilan Yesilgöz na het partijcongres, vandaag in Den Bosch, nog de leider van de VVD?",
@@ -612,13 +612,6 @@
    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
    "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-28T04:13:45+00:00"
-  },
-  {
-   "source": "NU.nl",
-   "topic": "nl",
-   "title": "Vechten of vertrekken: spannende congresdag voor VVD-leider Yesilgöz",
-   "url": "https://www.nu.nl/politiek/6418022/vechten-of-vertrekken-spannende-congresdag-voor-vvd-leider-yesilgoz.html",
-   "date": "2026-11-28T04:13:14+00:00"
   },
   {
    "source": "Mint",
@@ -663,13 +656,6 @@
    "date": "2026-11-28T03:44:52+00:00"
   },
   {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "India News Live Updates, 28 November 2026: Six Himachal students suspended for assaulting classmate after video surfaces",
-   "url": "https://indianexpress.com/article/india/breaking-news-live-updates-28-november-2026-india-bloc-meeting-punjab-up-elections-delimitation-aqi-kerala-deepam-row-accident-10981877/",
-   "date": "2026-11-28T03:31:07+00:00"
-  },
-  {
    "source": "The Verge",
    "topic": "tech",
    "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
@@ -705,13 +691,6 @@
    "date": "2026-11-28T02:55:44+00:00"
   },
   {
-   "source": "Mint",
-   "topic": "india",
-   "title": "IMD weather alert: Heavy rain likely in Tamil Nadu today; dense fog alert for Delhi-NCR, UP, Punjab — Check forecast",
-   "url": "https://www.livemint.com/news/india/imd-weather-alert-heavy-rain-likely-in-tamil-nadu-today-dense-fog-alert-for-delhi-ncr-up-punjab-check-forecast-11795833000251.html",
-   "date": "2026-11-28T02:50:38+00:00"
-  },
-  {
    "source": "DW",
    "topic": "geo",
    "title": "Polls close in Taiwan's closely watched local elections",
@@ -724,13 +703,6 @@
    "title": "Blussen bij broeiende silo in Drachten heeft effect: temperatuur daalt",
    "url": "https://nos.nl/l/2641334",
    "date": "2026-11-28T01:43:17+00:00"
-  },
-  {
-   "source": "Indian Express",
-   "topic": "india",
-   "title": "Jammers, CCTVs, random checks: Jammu & Kashmir prepares for sub-inspector test",
-   "url": "https://indianexpress.com/article/india/jammers-cctvs-random-checks-jammu-kashmir-prepares-for-sub-inspector-test-10981786/",
-   "date": "2026-11-28T01:37:00+00:00"
   },
   {
    "source": "BBC",
@@ -761,11 +733,11 @@
    "date": "2026-11-28T01:18:00+00:00"
   },
   {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "Bewakers Artsen zonder Grenzen gedood in Gaza, Israël spreekt van Hamas-leden",
-   "url": "https://nos.nl/l/2641333",
-   "date": "2026-11-28T01:11:56+00:00"
+   "source": "BBC",
+   "topic": "tech",
+   "title": "Tech Now",
+   "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T01:00:00+00:00"
   },
   {
    "source": "BBC",
@@ -780,13 +752,6 @@
    "title": "Spain's Sanchez makes final appeal to voters before election",
    "url": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
    "date": "2026-11-28T00:51:00+00:00"
-  },
-  {
-   "source": "NOS",
-   "topic": "nl",
-   "title": "ProRail zet roltrappen stil op vijf stations na ongeluk in Amsterdam",
-   "url": "https://nos.nl/l/2641332",
-   "date": "2026-11-28T00:27:43+00:00"
   },
   {
    "source": "The Verge",
@@ -892,13 +857,6 @@
    "title": "OpenAI countersues Apple for stealing trade secrets",
    "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
    "date": "2026-11-27T23:07:13+00:00"
-  },
-  {
-   "source": "de Volkskrant",
-   "topic": "nl",
-   "title": "Canadees die zelfdodingspakketten de wereld over stuurde hoort 25 jaar celstraf tegen zich eisen",
-   "url": "https://www.volkskrant.nl/buitenland/canadees-die-zelfdodingspakketten-de-wereld-over-stuurde-hoort-25-jaar-celstraf-tegen-zich-eisen~b50688bc/",
-   "date": "2026-11-27T22:26:00+00:00"
   },
   {
    "source": "CNBC",
@@ -1370,13 +1328,6 @@
    "date": "2026-11-25T20:00:34+00:00"
   },
   {
-   "source": "New Scientist",
-   "topic": "sci",
-   "title": "Seabird ‘spies’ could help spot ships that aren’t broadcasting their location",
-   "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-   "date": "2026-11-25T19:00:00+00:00"
-  },
-  {
    "source": "The Guardian",
    "topic": "clim",
    "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa – video",
@@ -1431,13 +1382,6 @@
    "title": "EA adds AI-generated John Motson to FC 27 video game",
    "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T10:11:34+00:00"
-  },
-  {
-   "source": "BBC",
-   "topic": "tech",
-   "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-   "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T10:03:12+00:00"
   }
  ]
 }
